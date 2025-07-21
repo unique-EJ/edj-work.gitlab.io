@@ -2,6 +2,12 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-    outDir: 'public',
-    publicDir: 'static',
+    output: 'static',
+    outDir: './public',
+    build: {
+        // Generate a directory (with 'index.html') for each page, the default option.
+        format: 'directory'
+    },
+    srcDir: './sources',
+    publicDir: './static-root'
 });
