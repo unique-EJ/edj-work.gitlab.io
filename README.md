@@ -1,8 +1,9 @@
-![Build Status](https://gitlab.com/pages/astro/badges/master/build.svg)
+# edj-work.gitlab.io
 
----
+A static website at the root of the GitLab Pages (sub-) domain given to the  
+"common group to manage collaborating on my projects" this project is under.
 
-Example [Astro](https://astro.build) website using GitLab Pages.
+Created through the [Astro](https://astro.build) framework.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
@@ -29,7 +30,7 @@ Inside your Astro project, you'll see the following folders and files:
 /
 ├── static/
 │   └── favicon.svg
-├── src/
+├── sources/
 │   ├── layouts/
 │   │   └── Layout.astro
 │   └── pages/
@@ -37,9 +38,9 @@ Inside your Astro project, you'll see the following folders and files:
 └── package.json
 ```
 
-There’s nothing special about `src/components/`, but that’s where we like to put any Astro/React/Vue/Svelte/Preact components.
+There’s nothing special about `sources/components/`, but that’s where any Astro/React/Vue/Svelte/Preact components are put.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+To learn more about the folder structure of an Astro project, refer to [the Astro guide on project structure](https://docs.astro.build/en/basics/project-structure/).
 
 ## Add base path in Astro when unique domain is disabled
 
@@ -92,8 +93,10 @@ If you forked this project for your own use, please go to your project's
 unless you want to contribute back to the upstream project.
 
 [ci]: https://about.gitlab.com/gitlab-ci/
+<!--
 [<project>]: http://link-to-project-main-page
 [install]: http://link-to-install-page
 [documentation]: http://link-to-main-documentation-page
+-->
 [userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
 [projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
