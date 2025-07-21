@@ -1,0 +1,31 @@
+---
+// Astro template component to wrap the repeated HTML structure around content.
+const { title } = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="shortcut icon" type="image/svg+xml" href="/Astro-favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+		<meta name="description" content="A website to show the projects under group 'edj-work' on GitLab." />
+    	<meta name="og:title" content={title} />
+    	<meta name="og:description" content="A website to show the projects under group 'edj-work' on GitLab." />
+		<style>
+			html, body {
+				display: block;
+				margin: 0;
+				width: 100%;
+				height: 100%;
+			}
+		</style>
+	</head>
+	<body>
+		<noscript>Warning: content that uses JavaScript is un-supported in your browser.</noscript>
+		<div>
+			<slot />
+		</div>
+	</body>
+</html>

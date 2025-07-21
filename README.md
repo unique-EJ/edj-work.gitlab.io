@@ -1,9 +1,9 @@
 # edj-work.gitlab.io
 
 A static website at the root of the GitLab Pages (sub-) domain given to the  
-"common group to manage collaborating on my projects" this project is under.
+"common group to manage collaborating on my projects" group this project is under, on GitLab.
 
-Created through the [Astro](https://astro.build) framework.
+Created through the [Astro](https://astro.build) content-before-complexity build framework.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
