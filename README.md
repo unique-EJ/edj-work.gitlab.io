@@ -5,6 +5,16 @@ A static website at the root of the GitLab Pages (sub-) domain given to the
 
 Created through the [Astro](https://astro.build) content-before-complexity build framework.
 
+I like the layout of Unix-like Linux distributions and the Git system  
+of snapshots over time to save the state of project files, referred to  
+by content checksum hash values. I am especially interested by the tool  
+feature of Git sub- modules, equivalent to mounting points in file systems because  
+a Git system of versioned file storage (repository) may be accessed in another  
+Git repository as a separate versioned "filesystem" with a ".gitmodules" file,  
+mapping where the sub- directory is from, like a file system (configuration) tab.
+
+So I am planning to use this in my projects.
+
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
 
