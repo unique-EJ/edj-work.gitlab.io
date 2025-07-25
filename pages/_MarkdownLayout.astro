@@ -1,0 +1,9 @@
+---
+// Astro template component to wrap the repeated HTML structure around content.
+import Document from "./_HTMLLayout.astro";
+
+const { frontmatter } = Astro.props;
+---
+<Document title={frontmatter.title}>
+	<slot />
+</Document>

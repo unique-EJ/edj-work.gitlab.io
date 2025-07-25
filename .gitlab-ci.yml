@@ -6,9 +6,15 @@ before_script:
   - npm ci
 
 create-pages:
+  variables:
+    # Optimize Git in the CI/CD process.
+    GIT_STRATEGY: fetch
+    GIT_DEPTH: 1
+    GIT_SUBMODULE_STRATEGY: none
   stage: build
   script:
     # Specify the steps involved to build your app here
+    - git submodule update --init --recursive --depth 1
     - npm run build
   pages: true  # publishes the default public directory
 

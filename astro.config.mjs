@@ -8,6 +8,6 @@ export default defineConfig({
         // Generate a directory (with 'index.html') for each page, the default option.
         format: 'directory'
     },
-    srcDir: './source-root',
-    publicDir: './static-root'
+    srcDir: './',
+    publicDir: './page-static-files/'
 });

@@ -16,62 +16,13 @@ mapping where the sub- directory is from, like a file system (configuration) tab
 So I am planning to use this in my projects.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
+documentation, https://docs.gitlab.com/ce/user/project/pages/.
 
 ---
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [Project Structure](#project-structure)
-- [Add base path in Astro when unique domain is disabled](#add-base-path-in-astro-when-unique-domain-is-disabled)
-- [GitLab CI](#gitlab-ci)
-- [Building locally](#building-locally)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Project Structure
-
-Inside your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── static/
-│   └── favicon.svg
-├── sources/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-There’s nothing special about `sources/components/`, but that’s where any Astro/React/Vue/Svelte/Preact components are put.
-
-To learn more about the folder structure of an Astro project, refer to [the Astro guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
-## Add base path in Astro when unique domain is disabled
-
-If you [disable the unique domain](https://docs.gitlab.com/user/project/pages/#unique-domains),
-the site will be hosted under `yourname.gitlab.io/examplerepository/`,
-you will need to configure Astro to use the `base` path.
-
-In `astro.config.mjs`, the value for `base` should be your project’s name,
-starting with a forward slash - for example, `/examplerepository`.
-This ensures Astro understands that your website’s root is `/examplerepository` instead of the default `/`,
-especially when your project is hosted at `https://gitlab.com/yourname/examplerepository/`.
-
-```js:title=astro.config.mjs
-export default defineConfig({
-    base: '/examplerepository',
-});
-```
-
 ## GitLab CI
 
-This project's static Pages are built by [GitLab CI][ci], following the steps
+This project's static Pages are built by [GitLab CI](https://about.gitlab.com/gitlab-ci/), following the steps
 defined in [`.gitlab-ci.yml`](.gitlab-ci.yml)
 
 ## Building locally
@@ -86,27 +37,3 @@ To work locally with this project, you'll have to follow the steps below:
 1. Commit & push your changes. GitLab will tigger a static build as instructed by the `.gitlab-ci.yml`
 
 Read more at Astro's [documentation](https://docs.astro.build/en/getting-started/).
-
-## GitLab User or Group Pages
-
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
-
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
-
-## Did you fork this project?
-
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
-
-[ci]: https://about.gitlab.com/gitlab-ci/
-<!--
-[<project>]: http://link-to-project-main-page
-[install]: http://link-to-install-page
-[documentation]: http://link-to-main-documentation-page
--->
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
