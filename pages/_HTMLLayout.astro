@@ -21,7 +21,8 @@ title += "'edj-work' group on GitLab";
 		<style>
 			@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 
-			* {
+			html, body, body > div {
+				display: block;
 				font-family: 'Victor Mono', sans-serif;
 				font-optical-sizing: auto;
 				font-weight: 300;
@@ -32,16 +33,16 @@ title += "'edj-work' group on GitLab";
 				height: 100%;
 				margin: 0;
 			}
-			html, body, body > div {
-				display: block;
-			}
 			body {
 				margin: 1em 1.04ch;
 			}
 			body > div {
 				overflow: auto;
 			}
-			body > div > :first-child {
+		</style>
+		<style is:global>
+			/* Un-scoped as-is CSS out of behind-the-scene Astro component encapsulation. */
+			html > body > div > *:first-child {
 				margin-top: 0;
 			}
 		</style>
