@@ -19,16 +19,28 @@ title += "'edj-work' group on GitLab";
     	<meta name="og:title" content={title} />
     	<meta name="og:description" content="A website to show the projects under group 'edj-work' on GitLab." />
 		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+			* {
+				font-family: 'Victor Mono', sans-serif;
+				font-optical-sizing: auto;
+				font-weight: 300;
+			}
 			html, body {
 				display: block;
 				margin: 0;
 				width: 100%;
 				height: 100%;
+				font-style: normal;
+			}
+			body {
+				overflow: auto;
 			}
 		</style>
 	</head>
 	<body>
 		<noscript>Warning: content that uses JavaScript is un-supported in your browser.</noscript>
+		<br/>
 		<div>
 			<slot />
 		</div>
