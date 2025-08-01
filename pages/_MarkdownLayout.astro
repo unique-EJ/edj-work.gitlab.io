@@ -9,7 +9,7 @@ let extraStyleSheets = {};
 if (Object.hasOwn(frontmatter, "extra-stylesheet-files")) {
 	void 0; // Convert YAML entry here. < name="extra-metadata" />
 	// Test:
-	extraStyleSheets = frontmatter;
+	extraStyleSheets = String(frontmatter);
 }
 // console.log(''+frontmatter["extra-stylesheet-files"]);
 ---
