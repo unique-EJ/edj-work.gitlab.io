@@ -5,15 +5,15 @@ import TemplateReference from "./_HTMLLayout.astro";
 const { frontmatter } = Astro.props;
 
 // Markdown frontmatter (YAML) entry to list the extra stylesheet file names.
-if (!Object.hasOwn(frontmatter, "extra-stylesheet-files")) {
-	const extraStyleSheets = {};
-} else {
-	void 0; // Convert YAML entry here.
+let extraStyleSheets = {};
+if (Object.hasOwn(frontmatter, "extra-stylesheet-files")) {
+	void 0; // Convert YAML entry here. < name="extra-metadata" />
+	// Test:
+	extraStyleSheets = frontmatter;
 }
-// Test.
-console.log(''+frontmatter["extra-stylesheet-files"]);
+// console.log(''+frontmatter["extra-stylesheet-files"]);
 ---
 <TemplateReference title={frontmatter.title}>
-	<!-- {  }< name="extra-metadata" />-->
+	<!-- Test: -->{extraStyleSheets}
 	<slot />
 </TemplateReference>
