@@ -7,9 +7,22 @@ const { frontmatter } = Astro.props;
 // Markdown frontmatter (YAML) entry to list the extra stylesheet file names.
 let extraStyleSheets = {};
 if (Object.hasOwn(frontmatter, "extra-stylesheet-files")) {
-	void 0; // Convert YAML entry here. < name="extra-metadata" />
+	// Convert YAML entry here. < name="extra-metadata" />
 	// Test:
-	extraStyleSheets = String(Object.entries(frontmatter));
+	extraStyleSheets = `${frontmatter["extra-stylesheet-files"].prototype.toString()}
+	${Object.fromEntries(frontmatter["extra-stylesheet-files"])}`;
+	/*if (typeof extraStyleSheets == "object") {
+		extraStyleSheets = ""
+		for (const key in frontmatter["extra-stylesheet-files"]) {
+			extraStyleSheets += ``
+			if (Object.prototype.hasOwnProperty.call(object, key)) {
+			const element = object[key];
+			
+		}
+	}
+
+		extraStyleSheets = String(Object.apply(frontmatter["extra-stylesheet-files"], {}))
+	}*/
 }
 // console.log(''+frontmatter["extra-stylesheet-files"]);
 ---
