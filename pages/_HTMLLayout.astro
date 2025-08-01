@@ -13,21 +13,20 @@ title += "'edj-work' group on GitLab";
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="shortcut icon" type="image/png"
-		href="https://gitlab.com/uploads/-/system/project/avatar/71786103/Markdown-mark.svg.png?width=48" />
+		href="/CC0-1.0-Universal-Public-Domain-Dedication-Wikimedia-Commons-Markdown-mark.svg.png" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 		<meta name="description" content="A website to show the projects under group 'edj-work' on GitLab." />
     	<meta name="og:title" content={title} />
     	<meta name="og:description" content="A website to show the projects under group 'edj-work' on GitLab." />
-		<style is:global>
+		<style is:global is:inline>
 			/* Un-scoped as-is CSS out of behind-the-scene Astro component encapsulation. */
+			@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 			html > body > div > *:first-child {
 				margin-top: 0;
 			}
 		</style>
 		<style>
-			@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-
 			html, body, body > div {
 				display: block;
 				font-family: 'Victor Mono', sans-serif;
@@ -47,11 +46,12 @@ title += "'edj-work' group on GitLab";
 				overflow: auto;
 			}
 		</style>
+		<slot name="extra-metadata" />
 	</head>
 	<body>
 		<noscript>Warning: content that uses JavaScript is un-supported in your browser.<br/></noscript>
 		<div>
-			<slot />
+			<slot name="default" />
 		</div>
 	</body>
 </html>

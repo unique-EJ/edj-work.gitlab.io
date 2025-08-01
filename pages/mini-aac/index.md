@@ -1,6 +1,8 @@
 ---
 layout: ../_MarkdownLayout.astro
 title: Mini communication support page to use on very small mobile screens
+extra-stylesheet-files:
+ - ""
 ---
 <div id="top"></div>
 
