@@ -10,7 +10,13 @@ if (Object.hasOwn(frontmatter, "extra-stylesheet-files")) {
 	// Convert YAML entry here. < name="extra-metadata" />
 	// Test:
 	extraStyleSheets = `${frontmatter["extra-stylesheet-files"]}
-	${Object.fromEntries(frontmatter["extra-stylesheet-files"])}`;
+list[`;
+	for (const entry in frontmatter["extra-stylesheet-files"]) {
+		extraStyleSheets += `${entry}
+`;
+	}
+	extraStyleSheets = `
+]`;
 	/*if (typeof extraStyleSheets == "object") {
 		extraStyleSheets = ""
 		for (const key in frontmatter["extra-stylesheet-files"]) {
