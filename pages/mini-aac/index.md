@@ -1,5 +1,5 @@
 ---
-layout: ./_MarkdownLayout.astro
+layout: ../_MarkdownLayout.astro
 title: Mini communication support page to use on very small mobile screens
 ---
 <span id="top"></span>
