@@ -3,7 +3,11 @@ layout: ../_MarkdownLayout.astro
 title: Mini communication support page to use on very small mobile screens
 extra-stylesheet-files:
  - "test"
- - 2
+ # media query stylesheet:
+ # @media only all and (min-width: 222px) {
+ # /* ... wrap in a phone graphic! ... */
+ # }
+ - "media query stylesheet"
 ---
 <div id="top"></div>
 
