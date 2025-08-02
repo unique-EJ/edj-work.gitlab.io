@@ -26,7 +26,8 @@ if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
 		const linkEntry = frontmatter["extra-metadata-links"][key];
 		console.log(`\nConverting extra metadata link: "${linkEntry}"`);
 		
-		if (!(linkEntry.propertyIsEnumerable(0) &&
+		// Will not evaluate second operands if the match evaluated to null.
+		if (linkEntry === null || !(linkEntry.propertyIsEnumerable(0) &&
 				linkEntry.propertyIsEnumerable(1))) {
 			continue;
 		}
@@ -39,7 +40,7 @@ if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
 				attribute = (["rel", "href"])[index]+`="${attribute}"`;
 			}
 			const match = (/^([^= \r\n]+)([=])("[^"\r\n]*")$/).exec(attribute);
-			// Will not evaluate both operands if the match evaluated to null.
+			// Will not evaluate second operand if the match evaluated to null.
 			if (match !== null && match.length == 4) {
 				if (match[1] == "rel" && ["shortcut", "shortcut icon", "icon",
 						"bookmark", "external", "nofollow", "noopener",
