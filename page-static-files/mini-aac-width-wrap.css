@@ -1,25 +1,43 @@
 /* A media query stylesheet, wraps if minimum width applies
     to the browser visible screen area. */
 @media only all and (min-width: 240px) {
-  /* wrap in a phone graphic! */
+  /* wraps in a phone graphic! */
   * {
     box-sizing: border-box !important;
   }
   html {
-    font-size: smaller !important;
+    /* (((222/80) - 16) / -1) / (240 / 100) = 5.51041666666666vw
+     * At view width of 240px, I want to have 80 EMs phone width.
+     * The pixel unit length of the phone width was 222 - so
+     * I find the font-size in 1em pixel units, (222/80) then
+     * negate the 1em - computed to 16px - and negate its negativity
+     * (below 0 inside this CSS calculation) to get a pixel value
+     * and change this to have view width units by dividing (÷) by the
+     * value of 1 view-width unit: dividing by the view width in pixels
+     * divided by 100. Then insert back into the responsive font-size
+     * and change the rem (root element font size) unit lengths used.
+     * But the calculation is not upward - responsive, so I use the
+     * responsive relationship of the answer, 2.775px to that view width.
+     **/
+    font-size: -webkit-calc((100vw / 222) * 2.775 * 0.75) !important;
+    font-size: -moz-calc((100vw / 222) * 2.775 * 0.75) !important;
+    font-size: calc((100vw / 222) * 2.775 * 0.75) !important;
     background-color: white !important;
   }
   html > body {
     position: relative; /* New stacking position context */
     margin-inline: auto !important;
-    border: 6px solid #1E222B;
-    border-top-left-radius: 8px 10px;
-    border-top-right-radius: 8px 10px;
-    border-bottom-left-radius: 128px 34px;
-    border-bottom-right-radius: 128px 34px;
-    padding: 16px !important;
-    padding-bottom: 297.35px !important;
-    width: 222px !important;
+    padding: 8rem !important;
+    padding-bottom: 106rem !important;
+    width: 80rem !important;
+    border: 3rem solid #1E222B;
+    border-block-start-width: 2rem;
+    border-block-end-width: 11rem;
+    border-top-left-radius: 3rem 2rem;
+    border-top-right-radius: 3rem 2rem;
+    border-bottom-left-radius: 45rem 12rem;
+    border-bottom-right-radius: 45rem 12rem;
+    clip-path: border-box;
   }
   html > body::before {
     content: "";
@@ -27,23 +45,24 @@
     top: 0;
     left: 0;
     right: 0;
-    bottom: 279.35px;
-    border: 16px solid #000000;
-    border-bottom-width: 18px;
+    bottom: 99rem;
+    border: 8rem solid #000000;
+    border-bottom-width: 16rem;
   }
   html > body::after {
     content: "";
     position: absolute;
     left: 0;
-    bottom: -1px;
+    bottom: -3rem;
     right: 0;
-    width: 210px;
-    height: 280.35px;
-    background-color: rgba(0,0,0,0);
-    /* Nokia-110-front-keypad.png - data encoding URL */
-    filter: brightness(72%);
+    height: 92rem;
+    background-color: #1E222B;
+    filter: brightness(70%) contrast(0.9);
+    transform: scale(1.07, 1.04);
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
+    /* Nokia-110-front-keypad.png - data encoding URL */
     background-image: url("data:text/plain;base64,\
 iVBORw0KGgoAAAANSUhEUgAAAMgAAAELCAYAAACcU8kwAAAA4WlDQ1BzUkdC\
 AAAYlWNgYDzNAARMDgwMuXklRUHuTgoRkVEKDEggMbm4gAE3YGRg+HYNRDIw\
@@ -855,8 +874,35 @@ KXg8HnR0dCAajRLPyxwOB3c63YJ4NE2DIy3v6L//3e+0M2fP6obh9DocjlJd\
 wgsLC+HJycnIL3/5Sx4KhfjCwgKPRqMgxQixtBlXJBiGgf7+fiTiatgyTd4C\
 7NBGsEHiAID/D5JgisnYAUPFAAAAAElFTkSuQmCC");
   }
+  html > body > div, html > body::before {
+    height: 58rem !important;
+  }
   html > body > div {
-    height: 11em !important;
-    padding: 1em 1.04ch;
+    position: relative;
+    font-size: 3.45rem;
+    padding: 2.2em 1.04ch 0;
+    border-block: 1.1em solid dimgrey;
+  }
+  html > body > div::after {
+    content: "Feature Phone design";
+    position: absolute;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: dimgrey;
+    color: ghostwhite;
+  }
+  html > body > div::-webkit-scrollbar {
+    width: 1.1em;
+    background-color: lightgrey;
+  }
+  html > body > div::-webkit-scrollbar-track {
+    margin-block-start: 6.48rem;
+    background-color: transparent;
+  }
+  html > body > div::-webkit-scrollbar-thumb {
+    margin-block-start: 6.48rem;
+    background-color: slategrey;
   }
 }

@@ -1,12 +1,13 @@
 ---
 layout: ../_MarkdownLayout.astro
-title: Mini communication support page to use on very small mobile screens
+title: Comms. help -- A mini communication support guide page to use on very small mobile screens (but responsive!)
 extra-metadata-links:
  - 
    - stylesheet
    - /mini-aac-width-wrap.css
 ---
-<span id="top"></span>&NoBreak;
+<span id="top"></span>
+[Home](#top)&NoBreak;
 Communication guide for mobile.
 
  - [Simple messages](#simple)
