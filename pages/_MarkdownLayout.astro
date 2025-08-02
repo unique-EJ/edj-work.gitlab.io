@@ -4,40 +4,49 @@ import TemplateReference from "./_HTMLLayout.astro";
 
 const { frontmatter } = Astro.props;
 
-// Markdown frontmatter (YAML) entry to list extra metadata to link stylesheets and files.
+// Markdown frontmatter (YAML) entry to list
+// extra metadata to link stylesheets and files.
+// ---
+// extra-metadata-links:
+//  - 
+//    # link entry in list
+//    # common attributes:
+//    # rel=
+//    - stylesheet
+//    # href=
+//    - /test.css
+//    # optional other attribute:
+//    - disabled=""
+//  - ...
+// ---
+//
 let extraMetaLinks = "";
 if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
-	// Converting YAML entry into HTML here.
 	for (const key in frontmatter["extra-metadata-links"]) {
 		const linkEntry = frontmatter["extra-metadata-links"][key];
-		console.log(`\n${linkEntry}`); // Test.
-
+		console.log(`\nConverting extra metadata link: "${linkEntry}"`);
+		
 		if (!(linkEntry.propertyIsEnumerable(0) &&
 				linkEntry.propertyIsEnumerable(1))) {
 			continue;
 		}
 		
+		// Converting entry into HTML here.
 		extraMetaLinks += "<link ";
 		let attribute = `${linkEntry[0]}`;
-
-		console.log(` ${attribute}`); // Test.
-
 		for (let index = 0; index < linkEntry.length; attribute = `${linkEntry[++index]}`) {
 			if (index < 2) {
 				attribute = (["rel", "href"])[index]+`="${attribute}"`;
 			}
 			const match = (/^([^= \r\n]+)([=])("[^"\r\n]+")$/).exec(attribute);
-
-			console.log(` ${match}`); // Test.
-
 			// Will not evaluate both operands if the match evaluated to null.
-			if (match !== null && match.length == 3) {
-				if (match[0] == "rel" && ["shortcut", "shortcut icon", "icon",
+			if (match !== null && match.length == 4) {
+				if (match[1] == "rel" && ["shortcut", "shortcut icon", "icon",
 						"bookmark", "external", "nofollow", "noopener",
-						"noreferrer", "opener", "tag"].includes(match[2])) {
+						"noreferrer", "opener", "tag"].includes(match[3].slice(1,-1))) {
 					continue;
 				}
-				extraMetaLinks += match[0]+match[1]+match[2]+" ";
+				extraMetaLinks += match[0]+" ";
 			}
 		}
 		extraMetaLinks += "/>\n";
