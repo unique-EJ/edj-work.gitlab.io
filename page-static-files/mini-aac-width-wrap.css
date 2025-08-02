@@ -3,11 +3,11 @@
 @media only all and (min-width: 240px) {
   /* wrap in a phone graphic! */
   * {
-    box-sizing: border-box;
+    box-sizing: border-box !important;
   }
   html {
-    font-size: smaller;
-    background-color: white;
+    font-size: smaller !important;
+    background-color: white !important;
   }
   html > body {
     position: relative; /* New stacking position context */
@@ -856,8 +856,7 @@ wgsLC+HJycnIL3/5Sx4KhfjCwgKPRqMgxQixtBlXJBiGgf7+fiTiatgyTd4C\
 7NBGsEHiAID/D5JgisnYAUPFAAAAAElFTkSuQmCC");
   }
   html > body > div {
-    box-sizing: border-box;
-    height: 11em;
+    height: 11em !important;
     padding: 1em 1.04ch;
   }
 }
