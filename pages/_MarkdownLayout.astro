@@ -19,11 +19,17 @@ if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
 		
 		extraMetaLinks += "<link ";
 		let attribute = `${linkEntry[0]}`;
+
+		console.log(` ${attribute}`); // Test.
+
 		for (let index = 0; index < linkEntry.length; attribute = `${linkEntry[++index]}`) {
 			if (index < 2) {
 				attribute = (["rel", "href"])[index]+`="${attribute}"`;
 			}
 			const match = (/^([^= \r\n]+)([=])("[^"\r\n]+")$/).exec(attribute);
+
+			console.log(` ${match}`); // Test.
+
 			// Will not evaluate both operands if the match evaluated to null.
 			if (match !== null && match.length == 3) {
 				if (match[0] == "rel" && ["shortcut", "shortcut icon", "icon",
