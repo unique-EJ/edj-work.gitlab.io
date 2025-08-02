@@ -4,18 +4,13 @@ title: Mini communication support page to use on very small mobile screens
 extra-metadata-links:
  - 
    - stylesheet
-   - /test.css
-   - rel="stylesheet"
-   - disabled=""
- # media query stylesheet:
- # @media only all and (min-width: 222px) {
- # /* ... wrap in a phone graphic! ... */
- # }
- - 
+   - /mini-aac-width-wrap.css
 ---
-<div id="top"></div>
+<p id="top">
 
-Communication guide for mobile.  
+  **Communication guide for mobile.**
+
+</p>
 
  - [Simple messages](#simple)
  - [Other things to say](#other-concepts)
