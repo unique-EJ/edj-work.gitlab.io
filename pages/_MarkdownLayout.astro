@@ -4,35 +4,41 @@ import TemplateReference from "./_HTMLLayout.astro";
 
 const { frontmatter } = Astro.props;
 
-// Markdown frontmatter (YAML) entry to list the extra stylesheet file names.
-let extraStyleSheets = {};
-if (Object.hasOwn(frontmatter, "extra-stylesheet-files")) {
-	// Convert YAML entry here. < name="extra-metadata" />
-	// Test:
-	extraStyleSheets = `${frontmatter["extra-stylesheet-files"]}
-list[`;
-	for (const entry in frontmatter["extra-stylesheet-files"]) {
-		extraStyleSheets += `${entry}
-`;
-	}
-	extraStyleSheets += `
-]`;
-	/*if (typeof extraStyleSheets == "object") {
-		extraStyleSheets = ""
-		for (const key in frontmatter["extra-stylesheet-files"]) {
-			extraStyleSheets += ``
-			if (Object.prototype.hasOwnProperty.call(object, key)) {
-			const element = object[key];
-			
-		}
-	}
+// Markdown frontmatter (YAML) entry to list extra metadata to link stylesheets and files.
+let extraMetaLinks = "";
+if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
+	// Converting YAML entry into HTML here.
+	for (const key in frontmatter["extra-metadata-links"]) {
+		const linkEntry = frontmatter["extra-metadata-links"][key];
+		console.log(`\n${linkEntry}`); // Test.
 
-		extraStyleSheets = String(Object.apply(frontmatter["extra-stylesheet-files"], {}))
-	}*/
+		if (!(linkEntry.propertyIsEnumerable(0) &&
+				linkEntry.propertyIsEnumerable(1))) {
+			continue;
+		}
+		
+		extraMetaLinks += "<link ";
+		let attribute = `${linkEntry[0]}`;
+		for (let index = 0; index < linkEntry.length; attribute = `${linkEntry[++index]}`) {
+			if (index < 2) {
+				attribute = (["rel", "href"])[index]+`="${attribute}"`;
+			}
+			const match = (/^([^= \r\n]+)([=])("[^"\r\n]+")$/).exec(attribute);
+			// Will not evaluate both operands if the match evaluated to null.
+			if (match !== null && match.length == 3) {
+				if (match[0] == "rel" && ["shortcut", "shortcut icon", "icon",
+						"bookmark", "external", "nofollow", "noopener",
+						"noreferrer", "opener", "tag"].includes(match[2])) {
+					continue;
+				}
+				extraMetaLinks += match[0]+match[1]+match[2]+" ";
+			}
+		}
+		extraMetaLinks += "/>\n";
+	}
 }
-// console.log(''+frontmatter["extra-stylesheet-files"]);
 ---
 <TemplateReference title={frontmatter.title}>
-	<!-- Test: -->{extraStyleSheets}
+	<Fragment set:html={extraMetaLinks} slot="extra-metadata" />
 	<slot />
 </TemplateReference>
