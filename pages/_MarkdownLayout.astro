@@ -38,7 +38,7 @@ if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
 			if (index < 2) {
 				attribute = (["rel", "href"])[index]+`="${attribute}"`;
 			}
-			const match = (/^([^= \r\n]+)([=])("[^"\r\n]+")$/).exec(attribute);
+			const match = (/^([^= \r\n]+)([=])("[^"\r\n]*")$/).exec(attribute);
 			// Will not evaluate both operands if the match evaluated to null.
 			if (match !== null && match.length == 4) {
 				if (match[1] == "rel" && ["shortcut", "shortcut icon", "icon",

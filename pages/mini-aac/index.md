@@ -12,8 +12,6 @@ extra-metadata-links:
  # /* ... wrap in a phone graphic! ... */
  # }
  - 
-   rel: stylesheet
-   href: /test2.css
 ---
 <div id="top"></div>
 
