@@ -6,11 +6,9 @@ extra-metadata-links:
    - stylesheet
    - /mini-aac-width-wrap.css
 ---
-<p id="top">
-
-  **Communication guide for mobile.**
-
-</p>
+<span id="top"></span>
+&NoBreak;  
+Communication guide for mobile.
 
  - [Simple messages](#simple)
  - [Other things to say](#other-concepts)
@@ -27,5 +25,8 @@ I'm OK, I don't need you with me.
 \-\-\-
 
 [To top](#top)\|Other things:<div id="other-concepts"></div>
-I have a plan of some things to do next.  
-Places to go - bedroom, out to shop, out to takeaway, to garden, to somewhere else.
+I have a plan of things to do next generally.  
+Hello! I may not have much to say.
+Places to go - back to bedroom at home, out(doors) to shop, out to takeaway, to the garden, to somewhere else.  
+I can write some messages and I do choices of actions that interest me.  
+I have more writing on my website at [https://einus.gitlab.io/](https://einus.gitlab.io/app-v1.9/#specific-URLs-are-optional-and-may-become-broken).  
