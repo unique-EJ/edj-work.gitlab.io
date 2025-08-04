@@ -3,7 +3,8 @@
 A static website at the root of the GitLab Pages (sub-) domain given to the  
 "common group to manage collaborating on my projects" group this project is under, on GitLab.
 
-Created through the [Astro](https://astro.build) content-before-complexity build framework.
+Created through the [Astro](https://astro.build) content-before-complexity build framework.  
+(Static Site Generator to pre-render files to web pages inside continuous automatic builds).
 
 I like the layout of Unix-like Linux distributions and the Git system  
 of snapshots over time to save the state of project files, referred to  
