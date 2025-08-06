@@ -1,10 +1,13 @@
 ---
 // Astro template component to wrap the repeated HTML structure around content.
 let { title = "" } = Astro.props;
+const titleStart = "'edj-work' on GitLab";
 if (title != "") {
-	title += " - ";
+	title = ": "+title;
+} else {
+	title = ", a Web project by Edward D. Jones: main page";
 }
-title += "'edj-work' group on GitLab";
+title = titleStart+title;
 // Includes the UTF-8 character encoding meta element to allow Markdown rendering.
 ---
 <!DOCTYPE html>

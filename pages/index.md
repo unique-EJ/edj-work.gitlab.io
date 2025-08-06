@@ -1,6 +1,5 @@
 ---
 layout: ./_MarkdownLayout.astro
-title: Main page
 ---
 A website of the GitLab group 'edj-work'.
 
