@@ -1,5 +1,5 @@
 ---
-layout: ./_MarkdownLayout.astro
+layout: ../_MarkdownLayout.astro
 ---
 A website of the GitLab group 'edj-work'.
 
