@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Information or message picker</title>
+    <meta name="generator" content="👨🏻"/>
+    <style>
+			@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+      * {
+        box-sizing: border-box !important;
+				font-family: 'Victor Mono', sans-serif;
+				font-optical-sizing: auto;
+      }
+      html {
+        padding: 0em 1.04ch;
+				font-weight: 300;
+				font-style: normal;
+      }
+      html, body {
+        display: block flow-root;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+			}
+      body {
+        position: relative; /* New positioning stack context */
+        padding-bottom: 2.2em;
+      }
+      main > table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+      }
+      main > table > caption {
+        caption-side: top;
+      }
+      main > table th, main > table td {
+        border: 1px solid currentColor;
+        padding: 0.1em;
+        vertical-align: middle;
+      }
+      main > table th {
+        font-weight: bold;
+      }
+      main > div[class="text-area"] {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 2.2em;
+        overflow: auto;
+        will-change: contents;
+      }
+      main > div[class="hidden-target"] {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+      }
+      main > div[class="hidden-target"]:not(:target),
+          main > div[class="text-area"] > span {
+        display: none;
+      }
+      /* A media query stylesheet, wraps if minimum width
+        applies to the browser visible screen area. */
+      @media only all and (min-width: 235px) {
+        body {
+          width: 234px;
+          height: 12.6em;
+          margin: auto !important;
+          word-wrap: break-word;
+          overflow-wrap: break-word;
+          overflow: auto;
+        }
+        body > main {
+          max-height: 100%;
+          overflow: auto;
+        }
+      }
+      main > #question[class="hidden-target"]:target ~
+          div[class="text-area"] > span[class~="for-question"],
+          main > #question-2[class="hidden-target"]:target ~
+            div[class="text-area"] > span[class~="for-question-part-2"],
+          main > #question-2a[class="hidden-target"]:target ~
+            div[class="text-area"] > span[class~="for-question-part-2a"],
+          main > #question-2b[class="hidden-target"]:target ~
+            div[class="text-area"] > span[class~="for-question-part-2b"],
+          main > #intro[class="hidden-target"]:target ~
+            div[class="text-area"] > span[class~="for-intro"],
+          main > #time[class="hidden-target"]:target ~
+            div[class="text-area"] > span[class~="for-time"] {
+        display: revert !important;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="hidden-target" id="question"></div>
+      <div class="hidden-target" id="question-2"></div>
+      <div class="hidden-target" id="question-2a"></div>
+      <div class="hidden-target" id="question-2b"></div>
+      <div class="hidden-target" id="intro"></div>
+      <div class="hidden-target" id="time"></div>
+      <table>
+        <caption>
+          Message picker feature. <a href="#">Restart it?</a>
+        </caption>
+        <tbody>
+          <tr>
+            <th scope="row">
+              <span tabindex="0">Simple<br/>phrases</span>
+            </th>
+            <td>
+              <span tabindex="0">'kay (okay). Right. Keep going.</span>
+              <span tabindex="0">Please stop.<br/></span>
+              <span tabindex="0">I don't know what to say.<br/>
+              Please wait for me.</span>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">
+              <span tabindex="0">Longer<br/>phrase<br/>intros</span>
+            </th>
+            <td>
+              <a href="#question">Is it OK if&NonBreakingSpace;</a><br/>
+              <a href="#question-2">you let me</a><br/>
+              <a href="#question-2a">...join in with this?</a><br/>
+              <a href="#question-2b">...do what I want to do now?</a><br/>
+              <a href="#intro">Excuse me...</a><br/>
+              <a href="#time">I need time before I choose</a><br/>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">
+              <span tabindex="0">Verbs<br/>of action<br/>and<br/>things</span>
+            </th>
+            <td>
+              <span tabindex="0">do / use this, use something / see / know what you are doing<br/></span>
+              <span tabindex="0">Please have the patience to wait.<br/></span>
+              <span tabindex="0">Thank you for that.<br/></span>
+              <span tabindex="0">I, you, he, she, they, friend, family, adult man / woman</span>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">
+              <span tabindex="0">About<br/>who<br/>I am</span>
+            </th>
+            <td>
+              <span tabindex="0">My name is Edward.
+                I'm ~23 years old. I don't speak much.<br/></span>
+              <span tabindex="0">I am challenged by fear and some difficulty
+                recalling memories and processing words slower.</span>
+              <span tabindex="0">I studied GCSEs in UK secondary
+              school and have some skills.<br/></span>
+              <span tabindex="0"><br/>
+                Please keep in mind, be aware that I have feelings of
+                worry</span>
+              <span tabindex="0">about not knowing what to do or
+                how to answer people.</span>
+              <span tabindex="0"><br/>
+                I like to listen to uplifting, ambient and melodic music.</span>
+              <span tabindex="0">
+                People being strict and moving around, close-up to me,
+                can give me an afraid feeling of anticipatory anxiety,</span>
+              <span tabindex="0">about the possible
+                threats to being myself, from that event.
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="text-area" contenteditable="true">
+        <span class="for-question for-question-part-2 for-question-part-2a for-question-part-2b"
+          contenteditable="false">Is it OK if</span>
+        <span class="for-question-part-2 for-question-part-2a for-question-part-2b"
+          contenteditable="false">you let me</span>
+        <span class="for-question-part-2a"
+          contenteditable="false">join in with this?</span>
+        <span class="for-question-part-2b"
+          contenteditable="false">go to do what I want to do?</span>
+        <span class="for-intro"
+          contenteditable="false">Excuse me,</span>
+        <span class="for-time"
+          contenteditable="false">I need time before I choose</a>
+      </div>
+    </main>
+    <script>
+      (document.querySelector("a[href='#']")).onclick = function () {
+        window.location.reload();
+      };
+    </script>
+  </body>
+</html>
