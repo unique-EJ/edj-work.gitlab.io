@@ -27,6 +27,10 @@
         position: relative; /* New positioning stack context */
         padding-bottom: 2.2em;
       }
+      body > main {
+        max-height: 100%;
+        overflow: auto;
+      }
       main > table {
         width: 100%;
         border-collapse: collapse;
@@ -65,17 +69,13 @@
       }
       /* A media query stylesheet, wraps if minimum width
         applies to the browser visible screen area. */
-      @media only all and (min-width: 235px) {
+      @media only all and (min-width: 255px) {
         body {
           width: 234px;
-          height: 12.6em;
+          max-height: 100%;
           margin: auto !important;
           word-wrap: break-word;
           overflow-wrap: break-word;
-          overflow: auto;
-        }
-        body > main {
-          max-height: 100%;
           overflow: auto;
         }
       }
