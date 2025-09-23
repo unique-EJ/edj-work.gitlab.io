@@ -8,7 +8,7 @@ extra-metadata-links:
 ---
 <span id="top"></span>
 [Home](#top)&NoBreak;
-Communication guide for mobile.
+Communication guide for EDJ, mobile.
 
  - [Simple messages](#simple)
  - [Other things to say](#other-concepts)

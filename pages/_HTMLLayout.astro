@@ -8,7 +8,7 @@ if (title != "") {
 	title = ", a Web project by Edward D. Jones: main page";
 }
 title = titleStart+title;
-// Includes the UTF-8 character encoding meta element to allow Markdown rendering.
+// The HTML includes a UTF-8 character encoding meta element to allow Markdown rendering.
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@ title = titleStart+title;
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="shortcut icon" type="image/png"
-		href="/CC0-1.0-Universal-Public-Domain-Dedication-Wikimedia-Commons-Markdown-mark.svg.png" />
+			href="/CC0-1.0-Universal-Public-Domain-Dedication-Wikimedia-Commons-Markdown-mark.svg.png" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 		<meta name="description" content="A website to show the projects under group 'edj-work' on GitLab." />
@@ -25,34 +25,47 @@ title = titleStart+title;
 		<style is:inline>
 			/* Un-scoped as-is CSS out of behind-the-scene Astro component encapsulation. */
 			@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-			html > body > div > *:first-child {
-				margin-top: 0;
-			}
-		</style>
-		<style>
-			html, body, body > div {
-				display: block;
+			* {
 				font-family: 'Victor Mono', sans-serif;
 				font-optical-sizing: auto;
 				font-weight: 300;
 				font-style: normal;
 			}
-			html, body > div {
-				width: 100%;
+		</style>
+		<style>
+			html, body {
 				height: 100%;
-				margin: 0;
+				margin: 0 !important;
 			}
-			body {
-				margin: 0em 1.04ch 1em 1.04ch;
+			body > header {
+				/* This is un-supported on the project creator's small mobile browser. */
+				position: fixed;
+				top: 0; left: 0;
+				background-color: rgba(0, 0, 0, 10%);
+			}
+			html, body, body > div {
+				box-sizing: border-box !important;
+				display: block;
+				width: 100%;
 			}
 			body > div {
 				overflow: auto;
+				min-height: 90%; /* Not 100% - as fail-safe. */
+				padding: 0em 1.04ch 1em 1.04ch;
 			}
 		</style>
+		<!-- Import the template then use ' slot="extra-metadata"' on meta content in that HTML. -->
 		<slot name="extra-metadata" />
 	</head>
 	<body>
-		<noscript>Warning: content that uses JavaScript is un-supported in your browser.<br/></noscript>
+		<header>
+			<noscript>Warning: content that uses JavaScript is un-supported in your browser.<br/></noscript><!--
+			--><a href="/"
+				title="Go back to the website root page">&lt;-</a><!--
+			--> | EDJ website | <!--
+			--><a href="https://gitlab.com/edj-work/edj-work.gitlab.io"
+				title="Go to the source of this GitLab group website">Source</a>
+		</header>
 		<div>
 			<slot name="default" />
 		</div>

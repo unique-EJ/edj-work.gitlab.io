@@ -20,7 +20,13 @@ const { frontmatter } = Astro.props;
 //  - ...
 // ---
 //
-let extraMetaLinks = "";
+let extraMetaLinks = (
+	"<style is:inline>\n"+
+	"	html > body > div > *:first-child {\n"+
+	"		margin-top: 0;\n"+
+	"	}\n"+
+	"</style>\n"
+);
 if (Object.hasOwn(frontmatter, "extra-metadata-links")) {
 	for (const key in frontmatter["extra-metadata-links"]) {
 		const linkEntry = frontmatter["extra-metadata-links"][key];
