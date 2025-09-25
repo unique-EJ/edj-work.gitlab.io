@@ -21,3 +21,5 @@ My "top mind skills" (cognitive skills) are:
  - showing philosophical, peaceful values to be living by
  - advocating in person, knowledge on the Web, melodic music, or F.O.S.S.
  - skills from (UK) GCSEs
+
+ℹ️: The customise -ability of software applications produced by the KDE community of Free Software development is something I like about them.

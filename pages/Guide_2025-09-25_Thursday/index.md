@@ -1,5 +1,5 @@
 ---
-layout: ./_MarkdownLayout.astro
+layout: ../_MarkdownLayout.astro
 title: A guide page from E.D.J., this project's creator.
 extra-metadata-links:
  - 
