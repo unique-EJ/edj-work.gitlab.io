@@ -1,0 +1,10 @@
+/* A simple media query stylesheet, wraps if a
+  minimum width applies to the browser screen area. */
+@media only all and (min-width: 240px) {
+  html {
+    font-size: small;
+    max-width: 80em;
+    height: 100%;
+    margin-inline: auto !important;
+  }
+}
