@@ -15,6 +15,8 @@ This link is only to support Nokia text navigation within the page.
 
 If you do not know, I sometimes have feelings of worry of possible threats to me and some of my anxieties are with wanting to pick and put together words, in my messages to answer people with, carefully or cautiously.
 
+<!-- *Imperfect note* my "biggest fear": the feelings "sad", "scared", "tired"... sort of over-powering me (wizardry "Dementors"), that causes me to like mindful time where I think happily and process through good concept ideas -->
+
 I have some skills from school and living - and there is more to me. Also, I created a document with more, over on my other website, linked through (on) my "link in bio" [profile page](https://gravatar.com/changeabilitee) and you can contact me from there.
 
 My "top mind skills" (cognitive skills) are:
