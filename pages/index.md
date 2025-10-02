@@ -15,9 +15,16 @@ This link is only to support Nokia text navigation within the page.
 
 "I am reflective, thought sharing and humour-ous."
 
+"Life in society is delicate, awkward or tricky, inter-personal and subjective to change of values from different views or different understanding."
+
 If you do not know, I sometimes have feelings of worry of possible threats to me and I am challenged by my problems living around people, disability with some memories and some anxieties with wanting to pick and put together words in my messages to answer people with, a little carefully or cautiously - a lack of trust in knowing all of the words to put my thinking processes into full phrases.
 
 I have some skills from school and living - and there is more to me. Also, I created a document with more, over on my other website, linked through (on) my "link in bio" [profile page](https://gravatar.com/changeabilitee) and you can contact me from there.
+
+My past negative experience of mental health treatment, with my Mum and Dad trying to help too, has given me a distrust of help from people or authority with a worrying need to keep myself on a personal plan of tasks and timings to do these task thoughts, to have a feel of meaning to living through the days I live inside any supported care service.
+
+This stops me from letting go much to rest and do living less seriously - because of knowing things to control my outcomes, I may want to keep moving with a little impatient mood... but I want to change that.
+I have a collection of documenting photos to help describe experiences and I know a musical sound track, "Ghost Voice by Solar Fields (Origin #04 album)" that is this feeling of gloomy ambient pressure. I like upbeat, beautiful, melodic, ambient tunes too - Carbon Based Lifeforms, Infinite Reflections, Stellardrone, State Azure...
 
 Because there is so much work in the making of electronic computer tools, the operating systems and physical hardware that they use can have many instruction codes. Computer programs can be commanded and customised (modified) to do more!
 
