@@ -42,6 +42,11 @@ title = titleStart+title;
 					max-width: 80em;
 					margin-inline: auto !important;
 				}
+				body > header > span:focus > span,
+						body > header > span:focus-visible > span,
+						body > header > span:hover > span {
+					display: inline;
+				}
 			}
 		</style>
 		<style>
@@ -56,6 +61,15 @@ title = titleStart+title;
 				background-color: #ffffffc0;
 				background-color: rgba(255, 255, 255, 75%);
 				color: #000000;
+			}
+			body > header > a[href="/"] > span,
+					body > header > span > span {
+				display: none;
+			}
+			body > header > a[href="/"]:focus > span,
+					body > header > a[href="/"]:focus-visible > span,
+					body > header > a[href="/"]:hover > span {
+				display: inline;
 			}
 			html, body, body > div {
 				box-sizing: border-box !important;
@@ -75,10 +89,12 @@ title = titleStart+title;
 		<header>
 			<noscript>Warning: content that uses JavaScript is un-supported in your browser.<br/></noscript><!--
 			--><a href="/"
-				title="Go back to the website root page">&lt;-</a><!--
-			--> | EDJ website | <!--
+				title="Go back to the website root page">&lt;-<span><!--
+					--> (to main page)</span></a><!--
+			--> | <span>EDJ website<span><!--
+					-->, hi!</span></span> | <!--
 			--><a href="https://gitlab.com/edj-work/edj-work.gitlab.io"
-				title="Go to the source of this GitLab group website">Source</a>
+				title="Go to the source files of this GitLab group website">Source</a>
 		</header>
 		<div>
 			<slot name="default" />
