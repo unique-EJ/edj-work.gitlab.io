@@ -895,12 +895,21 @@ KXg8HnR0dCAajRLPyxwOB3c63YJ4NE2DIy3v6L//3e+0M2fP6obh9DocjlJd\
 wgsLC+HJycnIL3/5Sx4KhfjCwgKPRqMgxQixtBlXJBiGgf7+fiTiatgyTd4C\
 7NBGsEHiAID/D5JgisnYAUPFAAAAAElFTkSuQmCC");
   }
+  html > body > header {
+    position: absolute !important;
+    width: 54.425rem;
+  }
   html > body > div {
     padding-bottom: 0 !important;
-    max-height: 35.475rem !important;
+    max-height: 39.7rem !important;
+  }
+  html > body > div::before {
+    content: "\A0";
+    display: block;
+    width: 100%;
   }
   html > body > div::after {
-    content: "Feature Phone design";
+    content: "Feature Phone design: use Tab";
     position: absolute;
     text-align: center;
     line-height: 1;

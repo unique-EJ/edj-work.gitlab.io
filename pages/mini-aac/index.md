@@ -1,6 +1,6 @@
 ---
 layout: ../_MarkdownLayout.astro
-title: Comms. help -- A mini communication support guide page to use on very small mobile screens (but responsive!)
+title: Comms. help -- A mini communication support guide page to use on very small mobile screens (but responsive! Wraps the page inside a 'Feature Phone' bordered design with keypad image if the browser can)
 extra-metadata-links:
  - 
    - stylesheet
