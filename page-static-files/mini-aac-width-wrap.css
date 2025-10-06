@@ -7,7 +7,7 @@
   }
   html {
     /* (((222/80) - 16) / -1) / (240 / 100) = 5.51041666666666vw
-     * At view width of 240px, I want to have 80 EMs phone width.
+     * At view width of 240px, I wanted to have 80 EMs phone width.
      * The pixel unit length of the phone width was 222 - so
      * I find the font-size in 1em pixel units, (222/80) then
      * negate the 1em - computed to 16px - and negate its negativity
@@ -16,7 +16,7 @@
      * value of 1 view-width unit: dividing by the view width in pixels
      * divided by 100. Then insert back into the responsive font-size
      * and change the rem (root element font size) unit lengths used.
-     * But the calculation is not upward - responsive, so I use the
+     * But the calculation is not upward - responsive, so I used the
      * responsive relationship of the answer, 2.775px to that view width.
      **/
     font-size: -webkit-calc((100vw / 222) * 2.775 * 0.75) !important;
@@ -28,8 +28,9 @@
     position: relative; /* New stacking position context */
     margin-inline: auto !important;
     padding: 8rem !important;
-    padding-bottom: 106rem !important;
+    padding-bottom: 105rem !important;
     width: 80rem !important;
+    height: 165rem;
     border: 3rem solid #1E222B;
     border-block-start-width: 2rem;
     border-block-end-width: 11rem;
@@ -45,9 +46,12 @@
     top: 0;
     left: 0;
     right: 0;
-    bottom: 99rem;
+    bottom: 89rem;
     border: 8rem solid #000000;
     border-bottom-width: 16rem;
+  }
+  html > body > * {
+    font-size: 3.25rem;
   }
   html > body::after {
     content: "";
@@ -878,19 +882,23 @@ wgsLC+HJycnIL3/5Sx4KhfjCwgKPRqMgxQixtBlXJBiGgf7+fiTiatgyTd4C\
     height: 58rem !important;
   }
   html > body > div {
-    position: relative;
-    font-size: 3.45rem;
-    padding: 2.2em 1.04ch 0;
-    border-block: 1.1em solid dimgrey;
+    padding-bottom: 0 !important;
   }
   html > body > div::after {
     content: "Feature Phone design";
     position: absolute;
     text-align: center;
-    top: 0;
+    line-height: 1;
+    /* Aligns with the top relative to the line box of "inline" (with text) types of content: */
+    vertical-align: top;
+    /* The top edge is offset below the containing box's top edge, by 1/2 of the result from
+        the length of the body design's inside top border width (8, rem)
+        subtracted from (-)
+        the length of the line height (3.25, rem) which is the font-size inherited from the parent element.
+    */
+    top: 2.375rem;
     left: 0;
     right: 0;
-    background-color: dimgrey;
     color: ghostwhite;
   }
   html > body > div::-webkit-scrollbar {

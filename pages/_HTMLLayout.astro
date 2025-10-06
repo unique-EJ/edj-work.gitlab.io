@@ -31,6 +31,18 @@ title = titleStart+title;
 				font-weight: 300;
 				font-style: normal;
 			}
+			/* from page-static-files/mini-width-wrap-simple.css */
+			/* A simple media query stylesheet, wraps if a
+				minimum width applies to the browser screen area. */
+			@media only all and (min-width: 240px) {
+				html {
+					font-size: small;
+				}
+				body > div {
+					max-width: 80em;
+					margin-inline: auto !important;
+				}
+			}
 		</style>
 		<style>
 			html, body {
@@ -38,6 +50,7 @@ title = titleStart+title;
 				margin: 0 !important;
 			}
 			body > header {
+				text-align: center;
 				/* This may be un-supported on the project creator's small mobile browser. */
 				background-color: rgba(0, 0, 0, 10%);
 			}
