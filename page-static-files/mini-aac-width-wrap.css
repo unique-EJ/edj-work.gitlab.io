@@ -9,7 +9,7 @@
     word-wrap: break-word;
     overflow-wrap: break-word;
   }
-  html, body {
+  html, body > div {
     overflow-y: scroll;
   }
   html {
@@ -42,7 +42,7 @@
     padding: 8rem !important;
     padding-bottom: 105rem !important;
     width: 80rem !important;
-    height: 165rem;
+    height: 165.3rem;
     /* saved working:
     max-width: 17.6rem !important;
     max-height: 24.839rem !important;
@@ -63,8 +63,9 @@
     left: 0;
     right: 0;
     bottom: 89rem;
+    height: 39.7rem !important;
     border: 8rem solid #000000;
-    border-bottom-width: 16rem;
+    border-bottom-width: 14rem;
   }
   html > body > * {
     font-size: 3.25rem;
@@ -894,11 +895,9 @@ KXg8HnR0dCAajRLPyxwOB3c63YJ4NE2DIy3v6L//3e+0M2fP6obh9DocjlJd\
 wgsLC+HJycnIL3/5Sx4KhfjCwgKPRqMgxQixtBlXJBiGgf7+fiTiatgyTd4C\
 7NBGsEHiAID/D5JgisnYAUPFAAAAAElFTkSuQmCC");
   }
-  html > body > div, html > body::before {
-    height: 58rem !important;
-  }
   html > body > div {
     padding-bottom: 0 !important;
+    max-height: 35.475rem !important;
   }
   html > body > div::after {
     content: "Feature Phone design";
