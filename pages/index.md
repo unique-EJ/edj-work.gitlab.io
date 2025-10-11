@@ -17,23 +17,25 @@ Sub-project page list:
 This link is only to support Nokia text navigation within the page.
 --><a href="#about-project-creator" tabindex="0" style="font-weight: bold; color: revert; cursor: revert; text-decoration: revert;">About me, this project's creator</a>
 
-"I am reflective, thought sharing and humour-ous."
-
-"Life in society is delicate, awkward or tricky, inter-personal and subjective 
-to change of values from different views or different understanding."
-
 ![A photo of myself - cropped to show only my face on a non-specific background of the residential home I was living in](/EDJ-photo-cropped-image-2025-09-27-from-CHOICE-AL.jpg "A photo of myself, cropped to my face")
 
-If you do not know, I sometimes have feelings of worry of possible threats to me 
-and I am challenged by my problems living around people, disability with some memories 
-and some anxieties with wanting to pick and put together words in my messages 
-to answer people with, a little carefully or cautiously - a lack of trust in knowing 
-all of the words to put my thinking processes into full phrases.
-
+"I am reflective, thought sharing and humour-ous."  
+&ZeroWidthSpace;&NoBreak;  
+"Life in society is delicate, awkward or tricky, inter-personal and subjective 
+to change of values from different views or different understanding."  
+&ZeroWidthSpace;&NoBreak;  
+If you do not know, I sometimes have feelings of worry of possible threats to me   
+and I am challenged by my problems living around people, disability with some memories   
+and some anxieties with wanting to pick and put together words in my messages   
+to answer people with, a little carefully or cautiously - a lack of trust in knowing   
+all of the words to put my thinking processes into full phrases.  
+&ZeroWidthSpace;&NoBreak;  
 I have some skills from school and living - and there is more to me. 
 Also, I created a document with more, over on my other website, 
 linked through (on) my "link in bio" [profile page](https://gravatar.com/changeabilitee) 
 and you can contact me from there.
+
+<span data-is-target="yes"><!-- This is to help the styling. --></span>
 
 My past negative experience of mental health treatment, with my Mum and Dad trying to help too, 
 has given me a distrust of help from people or authority with a worrying need to keep myself 
