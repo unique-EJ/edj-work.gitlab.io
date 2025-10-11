@@ -4,7 +4,7 @@ html > body > div > p:has( span[id="about-project-creator"] ) ~ p:has( img ) {
   margin-inline-end: 1.1em;
 }
 @media only all and (min-width: 240px) {
-  html > body > div > p:has( span[id="about-project-creator"] ) ~ *:not(p:has( img )):has( ~ span[data-is-target="yes"] ) {
+  html > body > div > p:has( span[id="about-project-creator"] ) ~ *:not(p:has( img )):has( ~ p > span[data-is-target="yes"] ) {
     /* New block formatting context to help the layout. */
     display: flow-root;
     display: block flow-root;
