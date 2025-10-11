@@ -1,5 +1,9 @@
 ---
 layout: ./_MarkdownLayout.astro
+extra-metadata-links:
+ - 
+   - stylesheet
+   - /image-to-the-left.css
 ---
 A website project of the GitLab group 'edj-work'.
 
@@ -17,6 +21,8 @@ This link is only to support Nokia text navigation within the page.
 
 "Life in society is delicate, awkward or tricky, inter-personal and subjective 
 to change of values from different views or different understanding."
+
+![A photo of myself - cropped to show only my face on a non-specific background of the residential home I was living in](/EDJ-photo-cropped-image-2025-09-27-from-CHOICE-AL.jpg "A photo of myself, cropped to my face")
 
 If you do not know, I sometimes have feelings of worry of possible threats to me 
 and I am challenged by my problems living around people, disability with some memories 
@@ -63,8 +69,9 @@ physical hardware that they use can have many instruction codes. Computer progra
 and customised (modified) to do more!
 
 My "top mind skills" (cognitive skills) are:
- - showing philosophical, peaceful values to be living by
- - advocating in person, knowledge on the Web, melodic music, or F.O.S.S.
+ - showing philosophical, peaceful values to be living by... trying to be empathetic — my self-centered actions are some choices just to defend myself
+ - a developed overview of understanding how to do some essential skills in life on this Earth — fixing problems, living skills, thinking before acting, realism to find the other optimistic flip side of some situation or event, like a coin will have
+ - advocating in person — having thoughtful respect, knowledge on the Web, melodic music or F.O.S.S.
  - skills from (UK) GCSEs
 
 <!-- *Imperfect note* my "biggest fear": the feelings "sad", "scared", "tired"... sort of over-powering me (wizardry "Dementors"), that causes me to like mindful time where I think happily and process through good concept ideas -->

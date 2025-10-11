@@ -1,0 +1,24 @@
+html > body > div > p:has( span[id="about-project-creator"] ) ~ p:has( img ) {
+  float: left;
+  float: inline-start;
+  margin-inline-end: 1.1em;
+}
+@media only all and (min-width: 240px) {
+  html > body > div {
+    display: grid;
+    display: block grid !important;
+    grid-template-columns: max-content auto;
+  }
+  html > body > div > * {
+    grid-column-start: 1;
+    grid-column-end: -1;
+    grid-row: initial;
+  }
+  html > body > div > p:has( span[id="about-project-creator"] ) ~ * {
+    grid-column: 2;
+  }
+  html > body > div > p:has( span[id="about-project-creator"] ) ~ p:has( img ) {
+    float: none;
+    grid-column: 1;
+  }
+}
