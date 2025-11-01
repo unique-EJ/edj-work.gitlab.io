@@ -39,17 +39,22 @@ and you can contact me from there.
 
 My past negative experience of mental health treatment, with my Mum and Dad trying to help too, 
 has given me a distrust of help from people or authority with a worrying need to keep myself 
-on a personal plan of tasks and timings to do these task thoughts, to have a feel of meaning 
+on a personal plan of tasks and timings to do the timeline of actions, to have a feel of meaning 
 to living through the days I live inside any supported care service.
 
-This stops me from letting go much to rest and do living less seriously - because of 
-things to know to control my outcomes, I may want to keep moving with a little impatient mood... 
-but I want to change that. 
+This stops me from letting go much to rest and do living less seriously  
+ \- because of things to do and anticipatory anxiety to control my outcomes,  
+I may want to keep moving with a little impatient mood... but I want to change 
+because I don't accept that I will keep living that way of continuous thinking what to do, too seriously.  
+I have lost memories of past good times and I let go of some memories if I'm tired, so I can have 
+an issue with hearing negative statements from people as I don't find enough time to do enjoyable activities.
 
-I'm a little worried my life is losing too much meaning. The problem I have about being 
-able to remember how to live and manage my life independently with low confidence to trust 
-any help from people would not take my feeling of meaning from the independent timeline of tasks
-and thoughts I plan to do to control the outcomes of my unknown future more, too seriously.
+I'm a little worried my life is losing too much meaning. The problem I have about being able 
+to remember how to live and manage my life independently, with my low confidence to trust  
+that by trying to ask any people to help me when outside, this would have a possibility to take 
+some feeling of meaning from me - and I would lose energy to the focus I give to the person or people, 
+so I would start again with not as much time to do all these daily actions I do to keep the outcomes 
+of my unknown future more controlled.
 
 It's the one main way I think is how I feel I give my life optimistic humour, to do life choices 
 that take me through endless living in healthcare supported places. Distant Mental Health services
@@ -64,11 +69,11 @@ through times of my pessimistic tiredness to keep doing tasks, not letting go mu
 I have a collection of documenting photos to help describe experiences 
 and I know a musical sound track, "Ghost Voice by Solar Fields (Origin #04 album)" 
 that is this feeling of gloomy ambient pressure. I like upbeat, beautiful, melodic, 
-ambient tunes too - Carbon Based Lifeforms, Infinite Reflections, Stellardrone, State Azure...
+ambient tunes too, by Carbon Based Lifeforms, Infinite Reflections, Stellardrone, State Azure...
 
-Because there is so much work in the making of electronic computer tools, the operating systems and 
-physical hardware that they use can have many instruction codes. Computer programs can be commanded 
-and customised (modified) to do more!
+Because there is so much work in the making of electronic computer tools, the 
+operating systems and physical hardware that they use can have many instruction codes.  
+Computer programs can be customised (modified) and commanded to do more!
 
 My "top mind skills" (cognitive skills) are:
  - showing philosophical, peaceful values to be living by... trying to be empathetic — my self-centered actions are some choices just to defend myself
