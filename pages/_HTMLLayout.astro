@@ -58,9 +58,16 @@ title = titleStart+title;
 				text-align: center;
 				/* This may be un-supported on the project creator's small mobile browser. */
 				position: sticky;
+				top: 0;
 				background-color: #ffffffc0;
 				background-color: rgba(255, 255, 255, 75%);
 				color: #000000;
+			}
+			body > header > a,
+					body > header > span {
+				display: inline-block;
+				display: inline block;
+				vertical-align: middle;
 			}
 			body > header > a[href="/"] > span,
 					body > header > span > span {
@@ -92,9 +99,9 @@ title = titleStart+title;
 				title="Go back to the website root page">&lt;-<span><!--
 					--> (to main page)</span></a><!--
 			--> | <span>EDJ website<span><!--
-					-->, hi!</span></span> | <!--
+					--><br/>hi, visitor!</span></span> | <!--
 			--><a href="https://gitlab.com/edj-work/edj-work.gitlab.io"
-				title="Go to the source files of this GitLab group website">Source</a>
+				title="Go to the source files of this GitLab group website">Versioning<br/>server</a>
 		</header>
 		<div>
 			<slot name="default" />
