@@ -11,9 +11,10 @@ but I feel I am too careful, nervous and fearful... afraid of losing self-contro
 
 **An update to this introduction**:  
 I have done some changes.  
-Having good energy levels and very little of (self-pressured) feelings, that I should be productive with things to choose,  
-can let me show more kindness to people...  
-I am limited by thinking about the negativity of... and from... things I don't have or have not done and other people.
+Having good energy levels and very little of (self-pressured) feelings,  
+that I should be productive with things to choose,  
+can let me show more kindness to people.  
+I am limited by thinking about the negativity of things I don't have or have not done... and the negativity from other people about this - the same way.
   
 &ZeroWidthSpace;&NoBreak;  
 [Go to the original main page in this project from me?](/original-detailed-root-page/)  
