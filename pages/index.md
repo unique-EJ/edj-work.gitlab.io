@@ -4,6 +4,8 @@ layout: ./_MarkdownLayout.astro
 &ZeroWidthSpace;&NoBreak;  
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;<!-- HTML code copy, too. -->
   
+*This page is mainly for me.*
+
 I have come to an end, of wanting to live the same way. 😮‍💨  
 This is a note of the disconnection I was feeling. **I am lucky or fortunate to have the places, people and things I have today...**  
 but I feel I am too careful, nervous and fearful... afraid of losing self-control of my timings I use to keep me moving through the personal schedule I try to do.  
