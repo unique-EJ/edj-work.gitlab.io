@@ -9,7 +9,7 @@ This is a note of the disconnection I was feeling. **I am lucky or fortunate to 
 but I feel I am too careful, nervous and fearful... afraid of losing self-control of my timings I use to keep me moving through the personal schedule I try to do.  
 *I always give myself plans to do, to not be "stuck" with no trust in my ability to go through the day.*
 
-An update to this introduction:  
+**An update to this introduction**:  
 I have done some changes.  
 Having good energy levels and very little of (self-pressured) feelings, that I should be productive with things to choose,  
 can let me show more kindness to people...  
