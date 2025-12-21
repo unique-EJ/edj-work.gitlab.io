@@ -1,5 +1,6 @@
 ---
 layout: ../_MarkdownLayout.astro
+title: original main page of this project
 extra-metadata-links:
  - 
    - stylesheet
