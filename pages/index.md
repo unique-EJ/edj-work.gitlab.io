@@ -4,14 +4,24 @@ layout: ./_MarkdownLayout.astro
 &ZeroWidthSpace;&NoBreak;  
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;<!-- HTML code copy, too. -->
   
-*This page is mainly for me.*
+*This page is mainly for me - but for other people, too.*  
+
+**The key info (from me) to know about and remember this new "good enough" balanced mindset ￼ of awareness I am doing, is:**  
+
+• **<mark>I care about my life and I have worried over too much time about change around me, what to choose and having good rests to myself. I am now an adult man with some anxiety.</mark>**  
+• <ins>The smart way my careful, analytical, "realist", friend-less, intelligent, nervous, sensitive and distrusting brain mindset works may be explained by this philosophy idea about limits of abilities - : (1) consistent good energy or power of a stable amount, or quantity - and (2) finding, or having, one or more alternative ways - a change of plan... to do any item of work (some task)... are the singular (only) main limits, I think, that can affect being able to do that task successfully ("carry it out") - - - my real life examples of this abstract thought (generalized concept) are (1) the limits if there is *(a need to keep being able to use)* a remote access connection to a distant computer - and (2) by expanding or extending that general thought, it is the way to keep being aware of changes in real life and to manage the changes by using an accepting awareness of (the) senses - to be able to let go of plans in the brain (thinking) about tasks, if they don't work... and to save some of the thoughts, to stop and help other people with the plans they wish or want to do... and to take healthy breaks to let go from having choices to judge, of what thoughts of action plans are right to do - and what ones would be okay to give away (to "save for later", or simply let go from not doing them)</ins>  
+• <ins>My final overview thought summing up this is only...</ins> "Sustainable living is a mindset of taking to the mind a way (remembering how) to balance your needs with enough awareness of (a need to have some) respect, to manage possible conflicts with other people.". <strong>From today in 2026, I will try to...</strong> "keep being aware" (of things that can change) "and try to minimise my loss of it" (being aware)... "and" (of having enough) "energy along with it, besides", to manage change or things that go wrong - a more assertive way to use my time and manage my Autistic Spectrum (ASD) social tiredness ￼ because of: the fear I have of losing something important to my life, the difficult issue I have with feeling safe because of a childhood that went wrong, the intrusive watchful threat from people's observations reported to social care services that want to protect me... and my self-centred focus or sometimes defensive actions in a personal timeline plan to keep myself on a path to resolve that fear, in my work to prove I can manage my ability to live.  
+• *I do too much productive work, too, then have "no energy". I will give up journalling! BUT I may use temporary notes to help my memory loss.*
+
+**The introduction to my thought about progress forward**:  
 
 I have come to an end, of wanting to live the same way. 😮‍💨  
 This is a note of the disconnection I was feeling. **I am lucky or fortunate to have the places, people and things I have today...**  
-but I feel I am too careful, nervous and fearful... afraid of losing self-control of my timings I use to keep me moving through the personal schedule I try to do.  
+but I feel I am too careful, perfectly, nervous and fearful... afraid of losing self-control of my timings I use to keep me moving through the personal schedule I try to do.  
 *I always give myself plans to do, to not be "stuck" with no trust in my ability to go through the day.*
 
 **An update to this introduction**:  
+
 I have done some changes.  
 Having good energy levels and very little of (self-pressured) feelings,  
 that I should be productive with things to choose,  
