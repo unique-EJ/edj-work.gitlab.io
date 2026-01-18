@@ -6,6 +6,10 @@ layout: ./_MarkdownLayout.astro
   
 *This page is mainly for me - but for other people, too.*  
 
+Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.  
+
+<mark>Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am tired and then don't feel able to accept that I need to save the work *and stop*. My top "mind skills" are showing philosophical, peaceful values to be living by; advocating in person knowledge on the Web, melodic music, or F.O.S.S.; skills from (UK) GCSEs - de ça, je peut utiliser un peu Français que je comprends... mais seulement quelque - aussi, langages ou langues sont difficile.
+
 **<mark>The key info (from me) to know about and remember this new "good enough" balanced mindset ￼ of awareness I am doing, is:</mark>**  
 
 • **<mark>I care about my life and I have worried over too much time about change around me, what to choose and having good rests to myself. I am now an adult man with some anxiety.</mark>**  
