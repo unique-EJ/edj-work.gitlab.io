@@ -39,12 +39,12 @@ I have done some changes.
 Having good energy levels and very little of (self-pressured) feelings,  
 that I should be productive with things to choose,  
 can let me show more kindness to people.  
-I am limited by thinking about the negativity of things I don't have or have not done... and the negativity from other people about this - the same way to that.
+I am limited by thinking about the negativity of things I don't have or have not done... and the negativity from other people about this - the same way to that limit.
 
-I'm not much of a food - interested person, I like coffees, healthier drinks and some good-tasting vegetarian snacks more often, instead.
+<mark>I'm not much of a food - interested person. I like coffees, healthier drinks and some good-tasting vegetarian snacks more often, instead.</mark>
   
 &ZeroWidthSpace;&NoBreak;  
-[Go to the original main page in this project from me?](/original-detailed-root-page/)  
+[Go to the original main page, in this project from me?](/original-detailed-root-page/)  
 ...or... [continue to my saved reminder notes list](#my-reminder-thought-notes).
   
 &ZeroWidthSpace;&NoBreak;  
