@@ -8,7 +8,16 @@ layout: ./_MarkdownLayout.astro
 
 Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.  
 
-<mark>Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am tired and then don't feel able to accept that I need to save the work *and stop*. My top "mind skills" are showing philosophical, peaceful values to be living by; advocating in person knowledge on the Web, melodic music, or F.O.S.S.; skills from (UK) GCSEs - de ça, je peut utiliser un peu Français que je comprends... mais seulement quelque - aussi, langages ou langues sont difficile.
+<mark>Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am tired and then don't feel able to accept that I need to save the work *and stop*.  
+I have realised that my choices sometimes may not be the best choices.  
+<mark>People can do anything they know how to do - "anything is possible" - but negativity is the only limit.</mark> My perfectionistic "💯" Autism experience has taught me that "<mark>when a person does not stop enough (at good, acceptable times) to rest from stress overload, or they don't manage the inter-personal issues of isolation  with responsible awareness and adapting to changes and interacting with others... their survival defense mechanism will be led to a loss of energy, the self-control power will end and become negativity automatically.</mark>"  
+
+**If I don't care as much about planning and "good enough" 🚫💯 actions, allow myself to take (better) rest breaks 😌 at good times and adapt to the changes life has 🌬️🎯💨, with an awareness of people (and possible social needs to resolve) 👥, I can manage difficult events and take life less seriously.**  
+
+I feel generally like I self-reflect too much on my continuous choice-making and other thinking, don't normally rest for long enough over the day and I am too aware of having less time before other people have needs to tell me questions to answer and then some peaceful space is broken in by social living responsibilities.  
+**<mark>Shared living with people and limited free space, is tiring!!!</mark>**  
+
+My top "mind skills" are showing philosophical, peaceful values to be living by; advocating in person knowledge on the Web, melodic music, or F.O.S.S.; skills from (UK) GCSEs - de ça, je peut utiliser un peu Français que je comprends... mais seulement quelque - aussi, langages ou langues sont difficile.
 
 **<mark>The key info (from me) to know about and remember this new "good enough" balanced mindset ￼ of awareness I am doing, is:</mark>**  
 
