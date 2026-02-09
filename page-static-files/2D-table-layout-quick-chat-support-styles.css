@@ -1,0 +1,12 @@
+/* Custom style-sheet (CSS) applied to pages/index.md */
+html > body > div table {
+  border-collapse: collapse;
+  width: 65mm;
+  height: 70mm;
+  background-color: white;
+}
+
+html > body > div table > caption {
+  caption-side: bottom;
+  padding-top: 4mm;
+}

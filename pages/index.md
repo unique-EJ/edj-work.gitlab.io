@@ -1,5 +1,9 @@
 ---
 layout: ./_MarkdownLayout.astro
+extra-metadata-links:
+ - 
+   - stylesheet
+   - /2D-table-layout-quick-chat-support-styles.css
 ---
 &ZeroWidthSpace;&NoBreak;  
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;<!-- HTML code copy, too. -->
@@ -8,7 +12,21 @@ layout: ./_MarkdownLayout.astro
 
 Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.  
 
-<mark>Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am tired and then don't feel able to accept that I need to save the work *and stop*.  
+<table style="border-collapse: collapse; width: 65mm; height: 70mm; background-color: white;">
+  <caption align="bottom" style="caption-side: bottom; padding-top: 4mm; font-weight: bold;">Some 2D table of quick chat support content phrases<br><!--
+    --> - to get printed out/off at a library someday and put on/into my 2 pouch holders.<!--
+  --></caption>
+  <tbody>
+    <tr>
+      <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 1.</td>
+      <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 2.</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Some HTML tabular, 2D table of content - quick communication/chat support phrases - to get printed out/off at a library and put on my 2 pouch holders. -->
+
+<mark>Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am socially withdrawn ("tired")... and then don't feel able to accept that I need to save the work *and stop*.  
 I have realised that my choices sometimes may not be the best choices.  
 <mark>People can do anything they know how to do - "anything is possible" - but negativity is the only limit.</mark> My perfectionistic "💯" Autism experience has taught me that "<mark>when a person does not stop enough (at good, acceptable times) to rest from stress overload, or they don't manage the inter-personal issues of isolation  with responsible awareness and adapting to changes and interacting with others... their survival defense mechanism will be led to a loss of energy, the self-control power will end and become negativity automatically.</mark>"  
 
