@@ -26,7 +26,7 @@ Comment, to myself: my thought of the next stage in this personal project is to 
 
 <!-- Some HTML tabular, 2D table of content - quick communication/chat support phrases - to get printed out/off at a library and put on my 2 pouch holders. -->
 
-<mark>Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am socially withdrawn ("tired")... and then don't feel able to accept that I need to save the work *and stop*.  
+<mark style="font-weight: bold;">Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am socially withdrawn ("tired")... and then don't feel able to accept that I need to save the work *and stop*.  
 
 I have realised that my choices sometimes may not be the best choices.  
 <mark>People can do anything they know how to do - "anything is possible" - but negativity is the only limit.</mark>  
@@ -72,7 +72,7 @@ I am limited by thinking about the negativity of things I don't have or have not
   
 &ZeroWidthSpace;&NoBreak;  
 <span id="my-reminder-thought-notes"></span>
-***👤 <ins>My reminder "tasks"</ins> 💭🔔***&ZeroWidthSpace;&NoBreak;  
+***👤 <span style="font-weight: bold;">My reminder "tasks"</span> 💭🔔***&ZeroWidthSpace;&NoBreak;  
   
  - Task things to do daily and some weekly ☑: ... ★ feel more confident, not too serious ★ tell people if I don't like something, someone's choice, or the way they are doing/had done something ★ work on a sustainable balance 🌍 and healthy mindset. The only problem is with what's enough. Not having too much of anything... being a self-balanced person. Social tags: #lifestyle , #mentalwellbeing , #life , #spirituality , #morals , #meditation 🧘‍♂️🧘‍♀️ ★ normal health activities I need to do - remember to brush teeth, a shower/wash - 🫧, some activities - sunlight, drink & food (meals to prepare, snacks, treat foods), get shower gel & shampoo (maybe) for washing – 🧴🫧🚿, sleep in the night to rest & help my brain - 🫠, clothes washing, clip nails, comb hair maybe, haircuts.
  - From X.com : Every person you see today, in \[... places you go to\], is fighting battles you \[may not\] know anything about. No one wears a sign saying "I'm struggling". Your kindness, your energy, the way you hold the door might be what saves their day. Choose to lift others as you lift yourself \[too].
