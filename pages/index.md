@@ -12,7 +12,7 @@ extra-metadata-links:
 
 Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.  
 
-<table style="border-collapse: collapse; width: 65mm; height: 70mm; background-color: white;">
+<table style="border: 1mm solid currentColor; border-collapse: collapse; width: 65mm; height: 70mm; background-color: white;">
   <caption align="bottom" style="caption-side: bottom; padding-top: 4mm; font-weight: bold;">Some 2D table of quick chat support content phrases<br><!--
     --> - to get printed out/off at a library someday and put on/into my 2 pouch holders.<!--
   --></caption>

@@ -1,5 +1,8 @@
 /* Custom style-sheet (CSS) applied to pages/index.md */
 html > body > div table {
+  color: black;
+  /* The text colo(u)r. */
+  border: 1mm solid currentColor;
   border-collapse: collapse;
   width: 65mm;
   height: 70mm;
