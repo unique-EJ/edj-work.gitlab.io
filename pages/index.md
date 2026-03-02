@@ -36,12 +36,15 @@ I want a "normal life" with friends but it's difficult really to enjoy fun **and
 
 ---
 
-<div style="overflow: auto;"> 
-  <figure style="text-align: center;">
-    <img src="/www.google.com_search_q=describe+a+cognitive+theory+of+self-protective+interest+by+defending+one%27s+personal+way+of+living+philosophies" alt="Google Search overview, generated with Google's AI and data, about a theory that explains defending oneself's way of living." style="border: 0.5mm grey solid; padding: 0.5em;" />
-    <figcaption style="display: inline-block; display: inline flow-root; margin: 0.25em;">[Google Search overview (screenshot) of Self-Affirmation Theory, proposed by Claude Steele in 1988, that describes protecting self-belief values, personal sense of meaning and/or self-control, against threats - to defend their views and ways.]</figcaption>
-  </figure>
-</div>
+<div style="overflow: auto;"><!--
+  --><figure style="text-align: center;"><!--
+  --><img src="/www.google.com_search_q=describe+a+cognitive+theory+of+self-protective+interest+by+defending+one%27s+personal+way+of+living+philosophies" alt="Google Search overview, generated with Google's AI and data, about a theory that explains defending oneself's way of living." style="border: 0.5mm grey solid; padding: 0.5em;" /><!--
+  --><br><!--
+  --><br><!--
+  --><figcaption style="display: inline-block; display: inline flow-root; margin: 0.25em;">[Google Search overview (screenshot) of Self-Affirmation Theory, proposed by Claude Steele in 1988, that describes protecting self-belief values, personal sense of meaning and/or self-control, against threats - to defend their views and ways.]</figcaption><!--
+  --></figure><!--
+--></div>
+<br>
 
 ---
 
