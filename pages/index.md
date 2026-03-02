@@ -106,7 +106,7 @@ I am limited by thinking about the negativity of things I don't have or have not
 
 &ZeroWidthSpace;&NoBreak;  
 <span id="my-reminder-thought-notes"></span>
-***👤 <span style="font-weight: bold;">My reminder "tasks"</span> 💭🔔***&ZeroWidthSpace;&NoBreak;  
+***👤 <span style="font-weight: bold;">My reminders</span> 💭🔔***&ZeroWidthSpace;&NoBreak;  
   
  - Task things to do daily and some weekly ☑: ... ★ feel more confident, not too serious ★ tell people if I don't like something, someone's choice, or the way they are doing/had done something ★ work on a sustainable balance 🌍 and healthy mindset. The only problem is with what's enough. Not having too much of anything... being a self-balanced person. Social tags: #lifestyle , #mentalwellbeing , #life , #spirituality , #morals , #meditation 🧘‍♂️🧘‍♀️ ★ normal health activities I need to do - remember to brush teeth, a shower/wash - 🫧, some activities - sunlight, drink & food (meals to prepare, snacks, treat foods), get shower gel & shampoo (maybe) for washing – 🧴🫧🚿, sleep in the night to rest & help my brain - 🫠, clothes washing, clip nails, comb hair maybe, haircuts.
  - From X.com : Every person you see today, in \[... places you go to\], is fighting battles you \[may not\] know anything about. No one wears a sign saying "I'm struggling". Your kindness, your energy, the way you hold the door might be what saves their day. Choose to lift others as you lift yourself \[too].
