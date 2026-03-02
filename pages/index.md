@@ -16,7 +16,7 @@ extra-metadata-links:
 <div style="overflow: auto;">
   <table style="border: 1mm solid currentColor; border-collapse: collapse; width: 65mm; height: 70mm; background-color: white;">
     <caption align="bottom" style="caption-side: bottom; padding-top: 4mm; font-weight: bold;">Some 2D table of quick chat support content phrases<br><!--
-      --> - to get printed out/off at a library someday and put on/into my 2 pouch holders.<!--
+      --> - to get printed out/off (maybe) at a library someday and put on/into my 2 pouch holders.<!--
     --></caption>
     <tbody>
       <tr>
