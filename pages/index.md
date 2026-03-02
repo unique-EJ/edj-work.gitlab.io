@@ -6,27 +6,42 @@ extra-metadata-links:
    - /2D-table-layout-quick-chat-support-styles.css
 ---
 &ZeroWidthSpace;&NoBreak;  
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;<!-- HTML code copy, too. -->
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 <span style="filter: contrast(1.05); overflow-wrap: normal; word-break: keep-all;">Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;</span><!-- HTML code copy, too. -->
   
 *This page is mainly for me - but for other people, too.*  
 
-Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.  
+<span style="font-style: italic; filter: saturate(0.9) contrast(0.8) brightness(0.75);">*Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.*</span>
+<!-- https://edj-work.gitlab.io/#:~:text=I%20have%20come-,to%20an%20end,-%2C%20of%20wanting%20to ... -->  
 
-<table style="border: 1mm solid currentColor; border-collapse: collapse; width: 65mm; height: 70mm; background-color: white;">
-  <caption align="bottom" style="caption-side: bottom; padding-top: 4mm; font-weight: bold;">Some 2D table of quick chat support content phrases<br><!--
-    --> - to get printed out/off at a library someday and put on/into my 2 pouch holders.<!--
-  --></caption>
-  <tbody>
-    <tr>
-      <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 1.</td>
-      <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 2.</td>
-    </tr>
-  </tbody>
-</table>
+<figure>
+  <img src="/www.google.com_search_q=describe+a+cognitive+theory+of+self-protective+interest+by+defending+one%27s+personal+way+of+living+philosophies" alt="Google Search overview, generated with Google's AI and data, about a theory that explains defending oneself's way of living." />
+  <figcaption style="margin: 0.5em; text-align: center;">[Google Search overview (screenshot) of Self-Affirmation Theory, proposed by Claude Steele in 1988, that describes protecting self-belief values, personal sense of meaning and/or self-control, against threats - to defend their views and ways.]</figcaption>
+</figure>
 
+<div style="overflow: auto;">
+  <table style="border: 1mm solid currentColor; border-collapse: collapse; width: 65mm; height: 70mm; background-color: white;">
+    <caption align="bottom" style="caption-side: bottom; padding-top: 4mm; font-weight: bold;">Some 2D table of quick chat support content phrases<br><!--
+      --> - to get printed out/off at a library someday and put on/into my 2 pouch holders.<!--
+    --></caption>
+    <tbody>
+      <tr>
+        <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 1.</td>
+        <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 2.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <!-- Some HTML tabular, 2D table of content - quick communication/chat support phrases - to get printed out/off at a library and put on my 2 pouch holders. -->
 
-<mark style="font-weight: bold;">Generally, simply...</mark> I am an adult man. I don't speak much. I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am socially withdrawn ("tired")... and then don't feel able to accept that I need to save the work *and stop*.  
+<span style="font-weight: bold;"><mark>Generally, simply...</mark> I am an adult man, I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on.</span>  
+I give myself too much of a difficult struggle to do tasks - living and explaining tasks - <mark>seriously, in time to be at peace, all done to let go</mark>  
+...but I do it too right and feel overloaded because I think I can do things myself to keep on top of it and I distrust I can use good help or support to do my "tasks" because I think I fear losing myself in help and going back in healthcare... I know what to do because I have been living isolated in care places too long and no-one tries to help if I don't say I am in need of it.  
+
+I want a "normal life" with friends but it's difficult really to enjoy fun **and** keep on top of things myself, worried... 😟... or get support and lose some time and free choice, communicating my needs. If I stop, socially, I may get tired.
+
+---
+
+I have problems with trusting my memory and anxiety fears from living in care and shared homes for much time, justifying my self-control defensive choices. I have thoughtful qualities, my religion is a scientific pantheist (simply, philosophical and non-religious) but I may be very sensitive of people intruding into my thoughts if/when I am socially withdrawn ("tired")... and then don't feel able to accept that I need to save the work **and stop**.  
 
 I have realised that my choices sometimes may not be the best choices.  
 <mark>People can do anything they know how to do - "anything is possible" - but negativity is the only limit.</mark>  
