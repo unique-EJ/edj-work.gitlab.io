@@ -10,7 +10,7 @@ extra-metadata-links:
   
 *This page is mainly for me - but for other people, too.*  
 
-<span style="font-style: italic; filter: saturate(0.9) contrast(0.8) brightness(0.75);">*Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.*</span>
+<span style="font-style: italic; filter: saturate(0.9) contrast(0.75) brightness(0.66);">*Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.*</span>
 <!-- https://edj-work.gitlab.io/#:~:text=I%20have%20come-,to%20an%20end,-%2C%20of%20wanting%20to ... -->  
 
 <div style="overflow: auto;">
