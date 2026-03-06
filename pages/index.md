@@ -9,6 +9,20 @@ extra-metadata-links:
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <span style="filter: contrast(1.05); overflow-wrap: normal; word-break: keep-all;">Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;</span><!-- HTML code copy, too. -->
   
 *This page is mainly for me - but for other people, too.*  
+ \-   
+from Edward Jones.  
+<div style="width: 25em;max-width: 100%;border:0.0625em solid rgb(216,219,221);border-radius:0.25em;overflow:hidden;">
+  <div style="padding:1em;">
+    <img src="https://ci3.googleusercontent.com/meips/ADKq_Na2VLtu6raQi_M1NmxHlvkgD9_Zd4DM18wSbi2h8Qkx6-TFU-_e1BHGldzY1SWsgkSJsZmQ5PUD-ZUg59Tt2jszDeXBlRJ9OCxj-7cCStoWAvDD1nboF6uqwW1XmHQ9bbd2PqzW1-UcpxlGdHR1dxMxwl2GemIxs03DjZzxTy3c4HwAJjs=s0-d-e1-ft#https://0.gravatar.com/avatar/dc679353943ee6635621bd2e6d85b3bf2df14e6ac8316480390b99e3f07228c9?s=256&amp;d=initials" width="64" height="64" alt="Edward – ℰ𝒟𝒥" style="margin-bottom:0.5em;border-radius:50%">
+    <div style="color:#000;font-size:1.25em;font-weight:700;line-height:120%;margin:0;font-family:SF Pro Text,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;width:4em;height:4em;"><!--
+    -->Edward – ℰ𝒟𝒥<!--
+  --></div>
+  <div style="color:#707070;font-size:0.875em;font-family:SF Pro Text,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"><a href="https://gravatar.com/changeabilitee?utm_source=email_signature" style="color:rgb(112,112,112);margin-top:0.5em;display:inline !important;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://gravatar.com/changeabilitee?utm_source%3Demail_signature&amp;source=gmail&amp;ust=1772867852882000&amp;usg=AOvVaw1lYJdqajZ5hBq7MOyslrgE">gravatar.com/changeabilitee</a></div>
+  </div>
+  <div style="background:#ffac53;height:0.25em;line-height:0.25em;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div>
+</div>
+
+<em style="font-weight: bold; font-style: normal;">I like music tracks!</em>
 
 <span style="font-style: italic; filter: saturate(0.9) contrast(0.75) brightness(0.66);">*Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.*</span>
 <!-- https://edj-work.gitlab.io/#:~:text=I%20have%20come-,to%20an%20end,-%2C%20of%20wanting%20to ... -->  
@@ -29,10 +43,12 @@ extra-metadata-links:
 <!-- Some HTML tabular, 2D table of content - quick communication/chat support phrases - to get printed out/off at a library and put on my 2 pouch holders. -->
 
 <span style="font-weight: bold;"><mark>Generally, simply...</mark> I am an adult man, I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on.</span>  
-I give myself too much of a difficult struggle to do tasks - living and explaining tasks - <mark>seriously, in time to be at peace, all done to let go</mark>  
+I give myself too much of a difficult struggle to do tasks - living and explaining tasks - <mark>seriously, in time to be at peace, all done to let go and have done things with meaning in my days</mark>  
 ...but I do it too right and feel overloaded because I think I can do things myself to keep on top of it and I distrust I can use good help or support to do my "tasks" because I think I fear losing myself in help and going back in healthcare... I know what to do because I have been living isolated in care places too long and no-one tries to help if I don't say I am in need of it.  
 
-I want a "normal life" with friends but it's difficult really to enjoy fun **and** keep on top of things myself, worried... 😟... or get support and lose some time and free choice, communicating my needs. If I stop, socially, I may get tired.
+<mark>I want a "normal life" with friends but it's difficult really to enjoy fun **and** keep on top of things myself, worried... 😟... or get support and lose some time and free choice, communicating my needs. If I stop, socially, I may get tired and have no trust in being OK, myself.</mark>  
+
+Isolation has given a future of finding meaning to my staying living, that I <mark>dis-</mark>trust people can give me because the healthcare has left me with no trust in my "sense of self", to want to give time to them. But we don't need to keep a defined "self", I know humans have it built-in. Life is more about behaviour from experiences and views than choosing right. <mark style="font-weight: bold;">Be you.</mark>
 
 ---
 
