@@ -100,7 +100,25 @@ I am limited by thinking about the negativity of things I don't have or have not
   
 &ZeroWidthSpace;&NoBreak;  
 [Go to the original main page, in this project from me?](/original-detailed-root-page/)  
-...or... [continue to my saved reminder notes list](#my-reminder-thought-notes).
+...or... [continue to my saved reminder notes list](#my-reminder-thought-notes) ...or... continue to my [description of what I know to explain that laws don't have meaning (only the in-person experiences can be real to the individual mind living it).](#my-verif-i-ability-of-laws-notes).
+
+---
+
+&ZeroWidthSpace;&NoBreak;  
+<span id="my-verif-i-ability-of-laws-notes"></span>
+
+"I may be able to do a formal presentation at a point in my long life, on the topic of laws being abstract, without (not having) a definitive meaning..."
+
+1. Laws don't have verifiable definitive meaning, as government authorities give trust to do the tasks of responsibility, to "in-between" proxy persons acting for the larger system...
+2. and they enforce what (only) they believe to be truth
+3. ... but individual experience is likely to have a bias from the subjective experience each individual has, they have different points of view (perspective) and shared knowledge forms "truth"
+4. ... but specific claims can only be verified to be true by the claiming personal individual point of view... and remembered (subjective, internal) knowledge that comes together with similar experiences, is based on language choices, responding to conditions and behaviour by the subjective individual experience
+5. ... and that response can be influenced and is perceived... by the other individuals, which are members built in to the universe of life...
+6. and because of that worldwide "seeing is believing", no general "facts" or "truths" are not "inter-" subjective based, as "right" and "wrong" things are viewpoints of subjects (one person's judgement), implying no part of any "right truth" may be verified "truly" to be truth.
+7. The "truth" result of logical conjunction of the set of collected perspectives ( or the result of "every individual of a group coming together to find an agreed rule"), has no technique to prove the truth of individual parts of the one truth, to prove the group truth itself is a truth, so...
+8. ... also the shared general group "truth" itself cannot be proved or disproved as correct ("right" and "wrong"), the error may be built-in.
+9. Computer systems are much more able to be evaluated to understand their model and know their operations to have use of them, there is no "right" way there to have the wanted results and solved problems...
+10. ... but there is no "right" way in life to get it right either, as life is more than choosing, it is about behaviour from experience and views.
 
 ---
 
