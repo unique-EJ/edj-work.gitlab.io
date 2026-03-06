@@ -100,7 +100,7 @@ I am limited by thinking about the negativity of things I don't have or have not
   
 &ZeroWidthSpace;&NoBreak;  
 [Go to the original main page, in this project from me?](/original-detailed-root-page/)  
-...or... [continue to my saved reminder notes list](#my-reminder-thought-notes) ...or... continue to my [description of what I know to explain that laws don't have meaning (only the in-person experiences can be real to the individual mind living it).](#my-verif-i-ability-of-laws-notes).
+...or... [continue to my saved reminder notes list](#my-reminder-thought-notes) ...or... continue to my [description of what I know to explain that laws don't have meaning (only the in-person experiences can be real to the individual mind living it)](#my-verif-i-ability-of-laws-notes).
 
 ---
 
