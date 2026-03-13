@@ -9,7 +9,29 @@ extra-metadata-links:
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <span style="filter: contrast(1.05); overflow-wrap: normal; word-break: keep-all;">Hello (multilingual - salut, saluto, hi). &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;</span><!-- HTML code copy, too. -->
   
 *This page is mainly for me - but for other people, too.*  
- \-   
+
+<mark style="font-weight: bold;">My view simply is... erm ... negative and fighting myself and I distrust other people and my ability to explain myself right... but I don't always need to do assertiveness... I am an aware adult, a man. I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on. I love calm peacefulness and I am tired of fighting my perfectionistic issues to be good to others. But it's "all good", I have people's understanding.<br/></mark>
+<hr/><br/>
+I get lost in social behaviour as a result of not giving myself enough time to not be busy thinking about tasks I do.  
+
+I may use AAC to support my communication.  
+
+I have slower information processing... but okay reaction time
+speed normally. I may need a bit more time to move on from some of my thoughts and need physical bodily boundaries.  
+<hr/><br/>
+I remember I need my mindset of aware balance because there's not always time to do things "right", normally. I distrust my ability to explain myself to help other people understand me, to manage direct conflicts  
+... one of my social neuro-disabilities. The pressure gets me down.  
+"Copy rights are of use."  
+According to another person, I "acknowledge" my "increasing confidence".  
+"Have a good day."  
+
+<!-- self-fears... ~I am an adult man, I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on.~
+I am negative this day-time.
+The truth is i am tired of fighting my individual self (and I don't explain myself directly & assertively but don't always need to do this), to be good to other "peeple" (* people)... and I love calm peacefulness.
+"not the only one self too"... I'm not the only one I know with an inflated self.
+-->
+
+ \-\-   
 from Edward Jones.  
 <div style="width: 25em;max-width: 100%;border:0.0625em solid rgb(216,219,221);border-radius:0.25em;overflow:hidden;">
   <div style="padding:1em;">
