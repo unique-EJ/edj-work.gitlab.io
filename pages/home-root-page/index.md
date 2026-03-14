@@ -1,5 +1,5 @@
 ---
-layout: ./_MarkdownLayout.astro
+layout: ../_MarkdownLayout.astro
 extra-metadata-links:
  - 
    - stylesheet
