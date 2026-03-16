@@ -19,16 +19,16 @@ I like healthy snacks, sometimes juice, ambient electronic music, realistic opti
 
 I not experienced much with adult social life but I would like to spend some time <a href="https://share.google/WR4N4POgz0hl2H17a">"Out In The Real World"</a> with someone.
 
-> I've hidden wishes for so long
-> Buried deep inside,
-> Keeping them secret from a world
-> That'll never realize
-> The way I dream
+> I've hidden wishes for so long; 
+> Buried deep inside; 
+> Keeping them secret from a world; 
+> That'll never realize; 
+> The way I dream.
 
-> We should never hide
-> The little things that make us real
-> Show them who we truly are
-> We will in time
+> We should never hide; 
+> The little things that make us real; 
+> Show them who we truly are; 
+> We will in time.
 
 <hr/><br/>
 I get lost in social behaviour as a result of tiredness, not giving myself enough time to not be busy thinking about tasks I do.  
