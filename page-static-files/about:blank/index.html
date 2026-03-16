@@ -4,9 +4,10 @@
 		<meta charset="UTF-8"/>
     	<meta name="viewport" content="initial-scale=1.0,user-scalable=yes"/>
 		<meta name="color-scheme" content="light dark"/>
-		<!-- The favicon image, to be pre- loaded in supporting browsers, to fetch it early to help with the page's performance. -->
+		<!-- The favicon image, to be pre- loaded in supporting browsers, to fetch it early to help with the page's performance. --><!-- not used, from Chrome.
 		<link rel="preload" as="image" type="image/png"
 			href="https://edj-work.gitlab.io/CC0-1.0-Universal-Public-Domain-Dedication-Wikimedia-Commons-Markdown-mark.svg.png" fetchpriority="high"/>
+		-->
 		<link rel="icon shortcut" type="image/png"
 			href="https://edj-work.gitlab.io/CC0-1.0-Universal-Public-Domain-Dedication-Wikimedia-Commons-Markdown-mark.svg.png"/>
 		<link rel="author" href="https://edj-work.gitlab.io/home-root-page/"/>
@@ -75,6 +76,7 @@
 				vertical-align: middle;
 				/****/
 				font-size: initial; /* A reset to the browser value. */
+				text-align: initial; /* A reset to the browser value. */
 				font-size: max(min(100vh, 1.3em), 1rem);
 				backdrop-filter: opacity(0.33);
 				filter: opacity(0.99);
@@ -93,12 +95,13 @@
 	--><body class="page"><!-- HTML document markup body.
 		--><div class="box-grouping"><!--
 			--><span aria-hidden="true" aria-disabled="true" aria-readonly="true"></span><!--
-			--><main><span tabindex="0" style="box-sizing: inherit; text-align: initial; font-family: inherit;"> Contents! ... to edit this text, use the built-in<wbr/><!--
-				--> browser [web&nbsp;developer] tools, on the 'Elements' panel, you may open the DevTools (by Google Chromium) from the browser menu. </span><!--
+			--><main><!--
+				--><span tabindex="0" style="box-sizing: inherit; font-family: inherit;">Contents! ... to edit this text, use the built-in<wbr/> <wbr/><!--
+				-->browser [web&nbsp;developer] tools, on the 'Elements'&nbsp;panel. You may open the DevTools - it may be from Google Chromium - from in the browser menu.<wbr/> <wbr/></span><br/><!--
+				--><span tabindex="0" style="box-sizing: inherit; font-family: inherit;">To keep formatting in the text area,<wbr/> <wbr/>paste or use formatted text content.<wbr/> <wbr/>Reload the page to clear it.</span><br/><!--
+				--><a href="/home-root-page/" tabindex="0" style="box-sizing: inherit; font-family: inherit;">Go to the main website page?</a><br/><!--
 				--><br/><!--
-				--><a href="/home-root-page/">Go to the main website page?</a> <!--
-				--><br/><!--
-				--><span contenteditable="true" tabindex="0">Editable text area. To keep formatting, paste formatted text content. Reload the page to clear it.</span><!--
+				--><span contenteditable="true" tabindex="0" style="box-sizing: inherit;">Editable text area.</span><!--
 			--></main><!--
 			--><span aria-hidden="true" aria-disabled="true" aria-readonly="true"></span><!--
 		--></div><!--
