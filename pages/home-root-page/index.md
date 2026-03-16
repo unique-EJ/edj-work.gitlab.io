@@ -10,7 +10,12 @@ extra-metadata-links:
   
 *This page is mainly for me - but for other people, too.*  
 
-<mark style="font-weight: bold;">My view simply is... erm ... negative from fighting myself and a pressured recovery from my issues. I distrust other people and my ability to explain myself right... choices may be confusing... but I don't always need to do assertiveness... I am an aware, lucky balanced man. I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on. I love slowed, calm peacefulness and I am tired of fighting my perfectionistic issues to be good to others. But it's "all good", I have people's understanding.<br/></mark>
+<mark style="font-weight: bold;">My view simply is... erm ... negative from fighting myself and a pressured recovery from my issues. I distrust other people and my ability to explain myself right... choices may be confusing... but I don't always need to do assertiveness... I am an aware, lucky balanced man. I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on. I love slowed, calm peacefulness and I am tired of fighting my perfectionistic issues to be good to others. But it's "all good", I have people's understanding.<br/>
+<br/>
+I'M A KIND SOUL, A "LADYBUG" PERSON WHO IS SELF - INSECURE AND TIGHT BUT STRAIGHTFORWARD, I THINK. NOT SHORT... BUT SWEET, I THINK. I'm working on my empathy skills.<br/>
+I feel I am a lucky man... but I don't stop enough to realise it and to rest and I'm a little too tense 😬 and stressed, a little busy (I think too much of all the tasks I should be done with before I let myself stop).
+
+I like healthy snacks, sometimes juice, ambient electronic music, realistic optimism... and sometimes coffee (latte) and cakes, or a natural caffeine drink, soft drink or tea and a sweet.</mark>
 <br/>
 <hr/><br/>
 I get lost in social behaviour as a result of tiredness, not giving myself enough time to not be busy thinking about tasks I do.  
