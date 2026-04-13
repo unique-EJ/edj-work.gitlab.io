@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" style="display: contents;"><!--
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" style="height: 100% !important; /* display: contents; */"><!--
 	--><head><!-- Document markup head: the metadata information. -->
 		<meta charset="UTF-8"/>
     	<meta name="viewport" content="initial-scale=1.0,user-scalable=yes"/>
@@ -19,7 +19,6 @@
 				box-sizing: border-box;
 			}
 			body {
-				display: block;
 				/* margin: unset; */ /* Undo browsing user agent styles. */
 				/* margin: 0.5em auto 0.5em;
 				margin-block: auto; */
@@ -39,11 +38,17 @@
 				display: -moz-box;
 				display: flexbox;
 				display: flex; */
+				display: contents; /* display: block; */
+				/* display: block flow-root; */
+				overflow: auto;
+				margin: unset; /* Undo browsing user agent styles. */
+				height: 100%;
 				text-align: center;
 			}
 			body > div {
-				height: 100%;
-				/*
+				display: contents;
+				/* height: 100%;
+				
 				display: contents; /* I may change it (edit). *//*
 				*/
 			}
@@ -59,23 +64,26 @@
 			}
 			body > * > main {
 				box-sizing: border-box !important;
-				margin: auto;
-				 /* 20% of the parent HTML element height = 4/15 of the max. height of this element, it will be 26.666666...%. */
-				transform: translateY(26.6666667%);
+				margin: 12.5% auto;
+				
+				/* 20% of the parent HTML element height = 4/15 of the max. height of this element, it will be 26.666666...%. : */
+				/* transform: translateY(26.6666667%); */
 				min-width: 50%;
 				min-height: 24%;
 				max-width: 92%;
-				max-height: 75%;
+				max-height: 86%;
+				height: auto;
 				padding: 0.13em 0.13em 0.333em 0.13em;
 				padding-inline: 0.13em;
 				padding-block: 0.13em;
 				padding-block-end: 0.25em;
 				overflow: auto;
-				/****/
+				/****/ /*
 				display: inline-block;
 				display: inline flow-root;
 				vertical-align: middle;
-				/****/
+				*/ /****/
+				display: block;
 				font-size: initial; /* A reset to the browser value. */
 				text-align: initial; /* A reset to the browser value. */
 				font-size: max(min(100vh, 1.3em), 1rem);
@@ -98,10 +106,10 @@
 			--><span aria-hidden="true" aria-disabled="true" aria-readonly="true"></span><!--
 			--><main class="page-content"><!--
 				--><strong role="doc-subtitle" tabindex="1" style="box-sizing: inherit; font-family: inherit; font-size: 1.1538461538461537em; filter: contrast(1.3);"><!--
-					-->A demo (example) page from Edward, this may <em>facilitate</em> (or let it be easier) for a person to show wording in the website browser and edit it.<!--
+					-->A demo (example) page from Edward, this may <em>facilitate</em> (or let it be easier) for a person to show messages/wording in the website browser and edit it, maybe.<!--
 				--></strong><br/><!--
 				--><br/><!--
-				--><span tabindex="0" style="box-sizing: inherit; font-family: inherit; filter: saturate(18);">Contents! ... <!--
+				--><span tabindex="0" style="box-sizing: inherit; font-family: inherit; filter: saturate(18);">(facilitate is used as a formal, or an 'adult's professional synonym word, as meaning the words "let" and "help", in positive ways... but, however you use it, in with it all‍so is a negative; sometimes it means to not do work for guiding or supervising someone else; allowing some actions to happen)<!--
 				--></strong><br/><!--
 				--><br/><!--
 				--><span tabindex="0" style="box-sizing: inherit; font-family: inherit; filter: saturate(18);">Contents! ... to edit this text, use the built-in<wbr/> <wbr/><!--
