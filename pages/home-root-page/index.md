@@ -30,6 +30,7 @@ I not experienced much with adult social life but I would like to spend some tim
 > Show them who we truly are; 
 > We will in time.
 
+<mark>I may be denied a "real world" life that I started to get in childhood, from the high level of energy I will need to cope with my new mental health \[neuro-] disability deficits and the protective distrust of safe "social care responsibilities" I am required to manage. I feel like a test subject in mental healthcare supervised social living and it's a never-ending journey from isolation, in a cycle of fear about it... my timings/social anxiety to go through the days not accepting my self- ability loss/memory loss from the instability of my pressures as a child [(view a PDF document to describe this case of saving my self for meeting and doing normal experiences at balanced pace with real world people, if you can think on it)](https://web.archive.org/web/20260414232119/https://edj-work.gitlab.io/Google__please_describe_a_case_of_saving_my_myself..._for_meeting_real_world_people__...__.pdf)... but... oh, I may be content enough living on a life support of help.</mark>
 <hr/><br/>
 I get lost in social behaviour as a result of tiredness, not giving myself enough time to not be busy thinking about tasks I do.  
 
