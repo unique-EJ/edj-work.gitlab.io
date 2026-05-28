@@ -6,6 +6,13 @@ A static website at the root of the GitLab Pages (sub-) domain given to the
 Created through the [Astro](https://astro.build) content-before-complexity build framework.  
 (Static Site Generator to pre-render files to web pages inside continuous automatic builds).
 
+> Overall, _I have a deep optimism for the long term_: with fighting for my choices, I will show the world the really kind choices I can do because through not letting my ways be changed in self-negativity...
+> caused by result of others' negativity, regulated experiences & by protective people's supervision and misunderstanding ways...
+> ... - promoting negativity back to me - that I **must not accept ALWAYS** to prioritise my _self_ - _**balance**_ and _**justified journey**_ to show the world how “anything is possible” by doing good options,
+> ... and not in sometimes hidden threats that may be feared, of serious regulating of individuals by distrust, data collection, unknown private operations and negativity about ability. But all this can be managed using good mindset choices."  
+
+ -- @ 𝕏 / codenamed_heXa -- \[ like 👍 ? \]
+
 I like the layout of Unix-like Linux distributions and the Git system  
 of snapshots over time to save the state of project files, referred to  
 by content checksum hash values. I am especially interested by the tool  
