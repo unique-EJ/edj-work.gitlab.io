@@ -10,7 +10,15 @@ extra-metadata-links:
   
 *This page is mainly for me - but for other people, too.*  
 
-<mark>My view simply is... erm ... negative from fighting myself and a pressured recovery from my issues. I distrust other people and my ability to explain myself right... choices may be confusing... but I don't always need to do assertiveness... I am an aware, lucky balanced man. I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on. I love slowed, calm peacefulness and I am tired of fighting my perfectionistic issues to be good to others. But it's "all good", I have people's understanding.<br/>
+> Overall, _I have a deep optimism for the long term_: with fighting for my choices, I will show the world the really kind choices I can do because through not letting my ways be changed in self-negativity...
+> caused by result of others' negativity, regulated experiences & by protective people's supervision and misunderstanding ways...
+> ... - promoting negativity back to me - that I **must not accept ALWAYS** to prioritise my _self_ - _**balance**_ and _**justified journey**_ to show the world how “anything is possible” by doing good options,
+> ... and not in sometimes hidden threats that may be feared, of serious regulating of individuals by distrust, data collection, unknown private operations and negativity about ability. But all this can be managed using good mindset choices."  
+
+ -- @ 𝕏 \[ like ? 👍 \]
+
+<br/>
+<mark>My view simply <ins>WILL NOT BE</ins>... erm ... negative from fighting myself and a pressured recovery from my issues. I distrust other people and my ability to explain myself right... choices may be confusing... but I don't always need to do assertiveness... I am an aware, lucky balanced man. I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on. I love slowed, calm peacefulness and I am tired of fighting my perfectionistic issues to be good to others. But it's "all good", I have people's understanding.<br/>
 <br/>
 I'M A KIND SOUL, A "LADYBUG" PERSON WHO IS SELF - INSECURE AND TIGHT BUT STRAIGHTFORWARD, I THINK. NOT SHORT... BUT SWEET, I THINK. I'm working on my empathy skills.<br/>
 I feel I am a lucky man... but I don't stop enough to realise it and to rest and I'm a little too tense 😬 and stressed, a little busy (I think too much of all the tasks I should be done with before I let myself stop).</mark>
@@ -38,7 +46,7 @@ I may use AAC to support my communication.
 
 I have slower information processing... but okay reaction time
 speed normally. I may need a bit more time to move on from some of my thoughts and need physical bodily boundaries.  
-<hr/><br/>
+<br/><hr/><br/>
 I remember I need my mindset of aware balance because there's not always time to do things "right", normally. I distrust my ability to explain myself to help other people understand me, to manage direct conflicts  
 ... one of my social neuro-disabilities. The pressure gets me down.  
 "Copy rights are of use."  
@@ -49,7 +57,7 @@ According to another person, I "acknowledge" my "increasing confidence".
 I am negative this day-time.
 The truth is i am tired of fighting my individual self (and I don't explain myself directly & assertively but don't always need to do this), to be good to other "peeple" (* people)... and I love calm peacefulness.
 "not the only one self too"... I'm not the only one I know with an inflated self.
--->
+--><br/>
 
  \-\-   
 from Edward Jones.  
@@ -65,6 +73,7 @@ from Edward Jones.
 </div>
 
 <em style="font-weight: bold; font-style: normal;">I like music tracks!</em>
+<br/>
 
 <span style="font-style: italic; filter: saturate(0.9) contrast(0.75) brightness(0.66);">*Comment, to myself: my thought of the next stage in this personal project is to input (add in) some links to files (to add, also) - I have enough text written.*</span>
 <!-- https://edj-work.gitlab.io/#:~:text=I%20have%20come-,to%20an%20end,-%2C%20of%20wanting%20to ... -->  
@@ -77,13 +86,14 @@ from Edward Jones.
     <tbody>
       <tr>
         <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 1.</td>
-        <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 2.</td>
+        <td><!-- (table data cell contents in a column, within a table row) -->Data/text cell 2. !</td>
       </tr>
     </tbody>
   </table>
 </div>
 <!-- Some HTML tabular, 2D table of content - quick communication/chat support phrases - to get printed out/off at a library and put on my 2 pouch holders. -->
 
+<br/>
 <span style="font-weight: bold;"><mark>Generally, simply...</mark> I am an adult man, I don't speak much, I have some distrust of my memory, do things myself and need a bit more time to move on.</span>  
 I give myself too much of a difficult struggle to do tasks - living and explaining tasks - <mark>seriously, in time to be at peace, all done to let go and have done things with meaning in my days</mark>  
 ...but I do it too right and feel overloaded because I think I can do things myself to keep on top of it and I distrust I can use good help or support to do my "tasks" because I think I fear losing myself in help and going back in healthcare... I know what to do because I have been living isolated in care places too long and no-one tries to help if I don't say I am in need of it.  
